@@ -1,3 +1,6 @@
+# I'm not putting my oauth key on github
+secrets.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

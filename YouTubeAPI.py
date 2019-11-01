@@ -9,6 +9,7 @@ import os
 import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
+import json
 
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
@@ -19,7 +20,7 @@ def main():
 
     api_service_name = "youtube"
     api_version = "v3"
-    client_secrets_file = "YOUR_CLIENT_SECRET_FILE.json"
+    client_secrets_file = "secrets.json"
 
     # Get credentials and create an API client
     flow = google_auth_oauthlib.flow.InstalledAppFlow.from_client_secrets_file(
@@ -33,8 +34,7 @@ def main():
         regionCode="US"
     )
     response = request.execute()
-
-    print(response)
+    print(json.dumps(response, indent=4))
 
     guide_categories = {} # maps guide category IDs to names
     channels = {} # maps guide category IDs to a list of channel IDs
