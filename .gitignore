@@ -107,4 +107,8 @@ venv.bak/
 .mypy_cache/
 
 # secrets.json
-secrets.json
+ secrets.json
+
+# JSON files
+ GCQmVzdCBvZiBZb3VUdWJl.txt
+ GCR2FtaW5n.txt

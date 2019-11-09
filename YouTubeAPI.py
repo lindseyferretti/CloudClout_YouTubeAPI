@@ -10,6 +10,7 @@ import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
 import sys
+import json
 
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
@@ -18,8 +19,7 @@ def main():
     category_id = sys.argv[1]
     print(category_id)
     channels_to_tags = get_data(category_id)
-    print(channels_to_tags)
-    load_data(channels_to_tags)
+    dump_to_json(channels_to_tags, category_id)
 
 
 def run_channel_request(youtube, next_page_token, category):
@@ -181,9 +181,13 @@ def get_data(category):
     return aggregated_tags
 
 
-def load_data(channels_to_tags):
-    # TODO: create files in CSV format for Gremlin, dump in S3 bucket
-    pass
+def dump_to_json(channels_to_tags, category_id):
+    json_text = json.dumps(channels_to_tags, indent=4)
+    print(json_text)
+
+    json_file = open(category_id + ".txt", "w")
+    json_file.write(json_text)
+    json_file.close()
 
 
 if __name__ == "__main__":
