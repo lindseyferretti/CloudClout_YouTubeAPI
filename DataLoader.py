@@ -4,30 +4,48 @@
 import sys
 import json
 
+def open_every_file():
+    file_list = []
+    filenames = ["GCQmVzdCBvZiBZb3VUdWJl", "GCQ3JlYXRvciBvbiB0aGUgUmlzZQ", "GCTXVzaWM", "GCQ29tZWR5", "GCRmlsbSAmIEVudGVydGFpbm1lbnQ", 
+        "GCR2FtaW5n", "GCQmVhdXR5ICYgRmFzaGlvbg", "GCU3BvcnRz", "GCVGVjaA", "GCQ29va2luZyAmIEhlYWx0aA", "GCTmV3cyAmIFBvbGl0aWNz"]
+    for f in filenames:
+        try:
+            tmp_file = open(f+".txt", "r")
+            data = tmp_file.read()
+            tmp_file.close()
+            data = json.loads(data)
+            file_list.append(data)
+        except:
+            print("File " + f + " not found.")
+    
+    return file_list
 
 def main():
-    file_name = sys.argv[1]
-    json_file = open(file_name, "r")
-    json_text = json_file.read()
-    json_file.close()
-    channels_to_tags = json.loads(json_text)
-
-    load_data(channels_to_tags)
-
-
-def load_data(channels_to_tags):
-    # TODO: create files in CSV format for Gremlin, dump in S3 bucket 
-    i = 1
-    write = open("verticies.csv", "a")
-    write.write("~id, videoID:string, tags:string[]\n")
-    for key in channels_to_tags:
-        string_to_write = str(i) + ", " + key + ", \""
-        for tag in channels_to_tags[key]:
-            string_to_write += tag + "; "
-        string_to_write += "\"\n"
-        write.write(string_to_write)
-        i += 1
-    write.close()
+    files = open_every_file()
+    unique_tags = set()
+    # Build the vertices, output to vertices.csv
+    pID = tID = eID = 1
+    v_csv = open("vertices.csv", "w")
+    v_csv.write("~id, ~label, title:string\n")
+    e_csv = open("edges.csv", "w")
+    e_csv.write("~id, ~from, ~to, ~label, weight:int\n")
+    for f in files:
+        for video_id in f:
+            title_tags = f[video_id]
+            v_csv.write("p" + str(pID) + ", Person, " + title_tags["title"] + "\n")
+            pID += 1
+            tags = title_tags["tags"]
+            for key in tags:
+                if(key not in unique_tags):
+                    unique_tags.add(key)
+                    v_csv.write("t" + str(tID) + ", Tag, " + key + "\n")
+                    tID += 1
+                e_csv.write("e" + str(eID) + ", p" + str(pID) + ", t" + str(tID) + ", ok boomer, " + str(tags[key]) + "\n") 
+                eID += 1
+                e_csv.write("e" + str(eID) + ", t" + str(tID) + ", p" + str(pID) + ", ok boomer, " + str(tags[key]) + "\n")
+                eID += 1
+    e_csv.close()
+    v_csv.close()
 
 if __name__ == "__main__":
     main()
