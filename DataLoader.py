@@ -28,7 +28,7 @@ def main():
     v_csv = open("vertices.csv", "w")
     v_csv.write("~id, ~label, title:string\n")
     e_csv = open("edges.csv", "w")
-    e_csv.write("~id, ~from, ~to, ~label, weight:int\n")
+    e_csv.write("~id, ~from, ~to, ~label, weight:Int\n")
     for f in files:
         for video_id in f:
             title_tags = f[video_id]
