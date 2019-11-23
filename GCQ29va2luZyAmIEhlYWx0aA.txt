@@ -1,0 +1,437 @@
+{
+    "UCj9DfRCLcjY9mFk29b2YyKw": {
+        "title": "The Scran Line",
+        "tags": {
+            "cupcakes": 25,
+            "how to make vanilla cupcakes": 25,
+            "easy cupcake recipes": 25,
+            "vanilla cupcakes": 25,
+            "french macarons": 25,
+            "the scran line": 25,
+            "the scranline": 25,
+            "nick makrides": 25,
+            "pastry design": 25,
+            "how to pipe cupcakes": 25
+        }
+    },
+    "UCj0V0aG4LcdHmdPJ7aTtSCQ": {
+        "title": "Clean & Delicious",
+        "tags": {
+            "healthy recipes": 23,
+            "clean eating": 22,
+            "Dani Spies": 22,
+            "easy recipes": 22,
+            "clean and delicious": 21,
+            "meal prep": 4,
+            "grocery haul": 2,
+            "meal prep recipes": 2,
+            "breakfast ideas": 2,
+            "healthy breakfast": 2
+        }
+    },
+    "UC4zjmczhKe3sEgHMzs01M_Q": {
+        "title": "STREET FOOD",
+        "tags": {
+            "food": 8,
+            "Street Food": 8,
+            "street food": 8,
+            "non veg meals": 8,
+            "veg meals": 8,
+            "road side meals": 8,
+            "indian street food": 7,
+            "awesome roadside meals hyderabad": 7,
+            "delicious roadside meals": 7,
+            "aunty meals": 7
+        }
+    },
+    "UCciOWSHoC_UFmInZBlVHSuA": {
+        "title": "Hilah Cooking",
+        "tags": {
+            "cooking": 24,
+            "texmex recipes": 24,
+            "learn to cook": 23,
+            "cooking show": 23,
+            "texmex": 23,
+            "mexican recipes": 23,
+            "internet cooking show": 22,
+            "online cooking show": 22,
+            "online cooking lessons": 22,
+            "cooking channel": 22
+        }
+    },
+    "UCu3KOyas91ceUYvkNzNR1Zw": {
+        "title": "Chef Mama Rosa",
+        "tags": {
+            "Vegan": 5,
+            "Plant based": 3,
+            "Onions": 3,
+            "Chef Mama Rosa": 2,
+            "Veggie": 2,
+            "Pasta": 2,
+            "Cake": 2,
+            "Brownies": 2,
+            "Cookies": 2,
+            "Cook": 2
+        }
+    },
+    "UCskIPGdQ2oNmfm1UQgRwboQ": {
+        "title": "Artisan Cake Company",
+        "tags": {
+            "sugar geek show": 10,
+            "liz marek": 8,
+            "cake": 7,
+            "artisan cake company": 5,
+            "tutorial": 4,
+            "modeling chocolate": 4,
+            "chocolate": 4,
+            "lizzo marek": 4,
+            "birthday": 3,
+            "easy": 3
+        }
+    },
+    "UCemXyN0MvApSEEtGvAsdo3g": {
+        "title": "Home Cooking Adventure",
+        "tags": {
+            "side dishes": 3,
+            "Thanksgiving side dish": 2,
+            "Thanksgiving side dishes": 2,
+            "coffee cake": 2,
+            "nutella mousse cake": 2,
+            "nutella knots": 2,
+            "summer dessert": 2,
+            "chocolate cake": 2,
+            "roasted sweet potatoes rounds": 1,
+            "roasted sweet potatoes": 1
+        }
+    },
+    "UCm4_NTvhixXU3YFetu8z-aA": {
+        "title": "Common Man Cocktails",
+        "tags": {
+            "rum": 7,
+            "tequila": 6,
+            "cocktail recipes": 4,
+            "tasting": 4,
+            "review": 4,
+            "gin": 4,
+            "tiki cocktails": 4,
+            "rum tasting": 3,
+            "tiki drinks": 3,
+            "passion fruit syrup": 3
+        }
+    },
+    "UCawxenzFyo_0rzpzejVHK1w": {
+        "title": "Steph and Adam",
+        "tags": {
+            "vegan meal prep": 12,
+            "meal prep": 7,
+            "vegan meal prep for weight loss": 6,
+            "fit couple cooks": 5,
+            "family vlogs": 5,
+            "steph and adam": 5,
+            "plant based meal prep": 4,
+            "family vloggers": 4,
+            "vegan meal plan": 4,
+            "vegan meal prep for the week": 4
+        }
+    },
+    "UCvBtKQaoDhsHkrvtLjSAhyw": {
+        "title": "Just One Cookbook",
+        "tags": {
+            "recipe": 14,
+            "japanese food": 11,
+            "how to make": 10,
+            "easy": 9,
+            "food": 9,
+            "cooking": 8,
+            "how to cook": 7,
+            "\u4f5c\u308a\u65b9": 6,
+            "\u30ec\u30b7\u30d4": 6,
+            "japanese cuisine": 5
+        }
+    },
+    "UCdegm7Y2AePJhkkmWCyYEwg": {
+        "title": "Rajshri Food",
+        "tags": {
+            "rajshri food": 8,
+            "food": 7,
+            "street food": 6,
+            "Bhumika": 6,
+            "breakfast recipes": 5,
+            "Rajshri Food": 5,
+            "Rajshri food": 5,
+            "indian street food": 4,
+            "varun inamdar": 4,
+            "diwali": 4
+        }
+    },
+    "UCvbLpfvAnGTpyO0tnw0YKGQ": {
+        "title": "Edgy Veg",
+        "tags": {
+            "vegan": 23,
+            "edgy veg": 23,
+            "easy vegan recipes": 19,
+            "vegan recipes": 14,
+            "vegan recipe": 11,
+            "best vegan recipes": 10,
+            "vegan cooking": 7,
+            "veganism": 7,
+            "sauce stache": 4,
+            "vegetarian": 4
+        }
+    },
+    "UCoTrrnpqNOqR_yhrv6KIHiA": {
+        "title": "Erwan Heussaff",
+        "tags": {
+            "erwan": 22,
+            "heussaff": 22,
+            "thefatkidinside": 21,
+            "philippines": 10,
+            "blog": 7,
+            "video": 7,
+            "travel": 7,
+            "food": 5,
+            "manila": 5,
+            "recipe": 4
+        }
+    },
+    "UCubwl8dqXbXc-rYE8MOSUnQ": {
+        "title": "Divas Can Cook",
+        "tags": {
+            "divascancook": 25,
+            "recipe": 25,
+            "cooking video": 25,
+            "cooking channel": 25,
+            "easy recipe": 25,
+            "cooking videos": 25,
+            "how to make": 25,
+            "how to bake": 25,
+            "learn to cook": 25,
+            "food network": 25
+        }
+    },
+    "UCNyp7l_6hmeKUrTOULmpiXA": {
+        "title": "Cake Style",
+        "tags": {
+            "tutorial": 25,
+            "amazing cakes": 25,
+            "cake decorating": 25,
+            "cake style": 25,
+            "icing": 25,
+            "frosting": 25,
+            "learn": 25,
+            "recipe": 25,
+            "how to": 25,
+            "how to make a cake": 25
+        }
+    },
+    "UCv-D6IpYrkgaYIcUp3pvHcw": {
+        "title": "Kin",
+        "tags": {
+            "kincommunity": 25,
+            "Kin Community": 24,
+            "diy": 21,
+            "how to": 20,
+            "recipes": 18,
+            "kin": 16,
+            "lifestyle": 16,
+            "home": 15,
+            "crafts": 9,
+            "Make Your Way Home": 9
+        }
+    },
+    "UC1aJuxLHlw8bBV6mfCqVfog": {
+        "title": "POPSUGAR Food",
+        "tags": {
+            "POPSUGAR Food": 25,
+            "pop sugar food": 25,
+            "pop sugar": 25,
+            "food": 24,
+            "eating": 24,
+            "easy recipes": 23,
+            "food tutorials": 23,
+            "kitchen": 23,
+            "get the dish": 23,
+            "dessert recipes": 22
+        }
+    },
+    "UC7fPf1yuGaYFmbxe0ZrshWw": {
+        "title": "Jenny Mustard",
+        "tags": {
+            "minimalism": 21,
+            "jenny mustard": 20,
+            "vegan": 19,
+            "minimalist": 19,
+            "the mustards": 17,
+            "veganism": 14,
+            "david mustard": 8,
+            "london blogger": 7,
+            "london": 6,
+            "uk fashion": 6
+        }
+    },
+    "UCosny7dI3LVZE-GWR1RKxsg": {
+        "title": "How To Make Sushi",
+        "tags": {
+            "food": 22,
+            "cooking": 20,
+            "chef devaux": 12,
+            "how to make sushi": 11,
+            "sushi": 11,
+            "recipe": 9,
+            "delicious": 6,
+            "japanese food": 6,
+            "como hacer sushi": 5,
+            "make sushi": 5
+        }
+    },
+    "UCjwmbv6NE4mOh8Z8VhPUx1Q": {
+        "title": "Rosanna Pansino",
+        "tags": {
+            "funny": 18,
+            "lol": 13,
+            "challenge": 13,
+            "rosanna pansino": 13,
+            "family friendly": 12,
+            "react": 12,
+            "vlog": 11,
+            "guest": 11,
+            "easy": 11,
+            "reacting": 11
+        }
+    },
+    "UCIEv3lZ_tNXHzL3ox-_uUGQ": {
+        "title": "Gordon Ramsay",
+        "tags": {
+            "Gordon": 22,
+            "Gordon Ramsay": 22,
+            "Ramsay": 22,
+            "Ramsey": 22,
+            "Chef Ramsay": 22,
+            "Recipe": 22,
+            "Recipes": 22,
+            "Food": 22,
+            "Cooking": 22,
+            "Cookery": 22
+        }
+    },
+    "UCxD2E-bVoUbaVFL0Q3PvJTg": {
+        "title": "ChefSteps",
+        "tags": {
+            "thanksgiving": 4,
+            "chefsteps": 4,
+            "turkey": 2,
+            "Apple Pie": 1,
+            "Super Apple Pie": 1,
+            "Super": 1,
+            "Apple": 1,
+            "Pie": 1,
+            "Thanksgiving": 1,
+            "infused oil": 1
+        }
+    },
+    "UCY1Yc3xA1aY0lqnKUTDTi7A": {
+        "title": "HellthyJunkFood",
+        "tags": {
+            "fast food": 11,
+            "food challenge": 9,
+            "taste test": 8,
+            "fried chicken": 5,
+            "food review": 5,
+            "eating show": 4,
+            "24 hours": 4,
+            "recipe": 4,
+            "filipino food": 4,
+            "how to": 3
+        }
+    },
+    "UCpI1MgMBfSuTFRrSD7u0tgQ": {
+        "title": "supercoolben",
+        "tags": {
+            "Food": 25,
+            "Awesome": 25,
+            "Eats": 25,
+            "Show": 25,
+            "Mukbang": 25,
+            "Eating": 25,
+            "Tasty": 4,
+            "McDonalds": 1,
+            "Chicken McNuggets": 1,
+            "Mustafas": 1
+        }
+    },
+    "UCJPL-KaRXesxML5G4xrfUAg": {
+        "title": "caribbeanpot",
+        "tags": {
+            "chris de la rosa": 20,
+            "gluten free": 10,
+            "caribbeanpot": 10,
+            "vegan": 6,
+            "gallivanting": 6,
+            "trinidad": 5,
+            "Chris De La Rosa": 4,
+            "vegetarian": 4,
+            "curry": 4,
+            "spicy": 3
+        }
+    },
+    "UCekQr9znsk2vWxBo3YiLq2w": {
+        "title": "You Suck At Cooking",
+        "tags": {
+            "you suck at cooking": 25,
+            "recipe": 24,
+            "ysac": 24,
+            "funny": 23,
+            "comedy": 22,
+            "tutorial": 20,
+            "chef": 20,
+            "how to": 20,
+            "how to-chef": 11,
+            "cooking": 9
+        }
+    },
+    "UCiZ9jB1O8Aof6P2F9aRNJLg": {
+        "title": "The F Word",
+        "tags": {
+            "F word": 25,
+            "f word uk": 25,
+            "gordon Ramsay": 25,
+            "f word gordon Ramsay": 25,
+            "gordon Ramsay cooking": 25,
+            "gordon Ramsay recipe": 25,
+            "gordon Ramsay food": 25,
+            "f word full episode": 25,
+            "f word recipe": 25,
+            "f word watch online": 25
+        }
+    },
+    "UCM4vLyVm4MPhS3o5o729Udg": {
+        "title": "Bhavna's Kitchen",
+        "tags": {
+            "food and drink": 25,
+            "bhavna's kitchen": 25,
+            "vegetarian cooking": 25,
+            "quick healthy recipes": 25,
+            "vegan recipes": 25,
+            "gluten free recipes": 23,
+            "indian recipe videos": 22,
+            "plant based protein recipes": 22,
+            "indian recipes": 21,
+            "bhavna's recipes": 20
+        }
+    },
+    "UCUrDSBMcDd-oPYdTXoGW7Uw": {
+        "title": "MommyTang",
+        "tags": {
+            "#mukbang": 20,
+            "#englishmukbang": 20,
+            "#\uba39\ubc29": 20,
+            "#vegankimchi": 20,
+            "#vegan": 20,
+            "#kimchi": 19,
+            "#\ucc44\uc2dd": 19,
+            "#koreanveganfood": 18,
+            "#veganrecipes": 18,
+            "#easyasianrecipe": 18
+        }
+    }
+}

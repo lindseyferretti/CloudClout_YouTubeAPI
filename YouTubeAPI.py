@@ -22,6 +22,15 @@ def main():
     dump_to_json(channels_to_tags, category_id)
 
 
+def channelID_to_name(youtube, channelID):
+    request = youtube.channels().list(
+        part="snippet",
+        id=channelID
+    )
+    response = request.execute()
+    return response["items"][0]["snippet"]["title"] 
+
+
 def run_channel_request(youtube, next_page_token, category):
     if next_page_token is None:
         request = youtube.channels().list(
@@ -84,18 +93,21 @@ def get_next_page_token(response):
     return next_page_token
 
 
-def aggregate_tags(tags):
+def aggregate_tags(tags, channel_names):
     aggregate_tags = {}
     for channel in tags:
         tag_dict = tags[channel]
-        max_tags = []
+        middle_man_dict = {}
+        max_tags = {}
         index = 0
+        middle_man_dict["title"] = channel_names[channel]
         while index < 10 and len(tag_dict) > 0:
             max_tag = max(tag_dict, key=lambda k: tag_dict[k])
-            max_tags.append(max_tag)
+            max_tags[max_tag] = tag_dict[max_tag]
             tag_dict.pop(max_tag)
             index += 1
-        aggregate_tags[channel] = max_tags
+        middle_man_dict["tags"] = max_tags
+        aggregate_tags[channel] = middle_man_dict
     return aggregate_tags
 
 
@@ -119,7 +131,8 @@ def get_data(category):
     playlists = {}  # maps channel IDs to uploaded playlist IDs
     videos = {}  # maps playlist IDs to a list of uploaded videos
     tags = {}  # maps channel ID to dict of tags => num of occurrences
-
+    channel_names = {} # maps channel IDs to their readable names
+    
     # For guide category, pull a list of channels associated with that
     # guide category
     # Request channels with categoryId = category
@@ -131,6 +144,7 @@ def get_data(category):
     results = response["items"]
     for result in results:
         channel_id = result["id"]
+        channel_names[channel_id] = channelID_to_name(youtube, channel_id)
         channel_list.append(channel_id)
 
         # While we're on a channel ID, we'll pull its uploaded
@@ -175,9 +189,9 @@ def get_data(category):
         videos[playlist_id] = videos_list
     # Add list of channels for category to channels map
     channels[category] = channel_list
-
+   
     # Aggregate tags per channel ID into lists of top 10 tags
-    aggregated_tags = aggregate_tags(tags)
+    aggregated_tags = aggregate_tags(tags, channel_names)
     return aggregated_tags
 
 
@@ -192,3 +206,4 @@ def dump_to_json(channels_to_tags, category_id):
 
 if __name__ == "__main__":
     main()
+    
