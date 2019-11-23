@@ -22,7 +22,7 @@ def open_every_file():
 
 def main():
     files = open_every_file()
-    unique_tags = set()
+    unique_tags = {}
     # Build the vertices, output to vertices.csv
     pID = tID = eID = 1
     v_csv = open("vertices.csv", "w")
@@ -36,11 +36,11 @@ def main():
             tags = title_tags["tags"]
             for key in tags:
                 if(key not in unique_tags):
-                    unique_tags.add(key)
+                    unique_tags[key] = tID
                     v_csv.write("t" + str(tID) + ", Tag, " + key + "\n")
-                e_csv.write("e" + str(eID) + ", p" + str(pID) + ", t" + str(tID) + ", ok boomer, " + str(tags[key]) + "\n") 
+                e_csv.write("e" + str(eID) + ", p" + str(pID) + ", t" + str(unique_tags[key]) + ", ok boomer, " + str(tags[key]) + "\n") 
                 eID += 1
-                e_csv.write("e" + str(eID) + ", t" + str(tID) + ", p" + str(pID) + ", ok boomer, " + str(tags[key]) + "\n")
+                e_csv.write("e" + str(eID) + ", t" + str(unique_tags[key]) + ", p" + str(pID) + ", ok boomer, " + str(tags[key]) + "\n")
                 eID += 1
                 tID += 1
             pID += 1
