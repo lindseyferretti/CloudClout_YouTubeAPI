@@ -109,6 +109,5 @@ venv.bak/
 # secrets.json
  secrets.json
 
-# JSON files
- GCQmVzdCBvZiBZb3VUdWJl.txt
- GCR2FtaW5n.txt
+# CSV files
+ *.csv
