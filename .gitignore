@@ -110,4 +110,5 @@ venv.bak/
  secrets.json
 
 # CSV files
- *.csv
+edges.csv
+vertices.csv
