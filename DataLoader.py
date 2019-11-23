@@ -33,17 +33,17 @@ def main():
         for video_id in f:
             title_tags = f[video_id]
             v_csv.write("p" + str(pID) + ", Person, " + title_tags["title"] + "\n")
-            pID += 1
             tags = title_tags["tags"]
             for key in tags:
                 if(key not in unique_tags):
                     unique_tags.add(key)
                     v_csv.write("t" + str(tID) + ", Tag, " + key + "\n")
-                    tID += 1
                 e_csv.write("e" + str(eID) + ", p" + str(pID) + ", t" + str(tID) + ", ok boomer, " + str(tags[key]) + "\n") 
                 eID += 1
                 e_csv.write("e" + str(eID) + ", t" + str(tID) + ", p" + str(pID) + ", ok boomer, " + str(tags[key]) + "\n")
                 eID += 1
+                tID += 1
+            pID += 1
     e_csv.close()
     v_csv.close()
 
