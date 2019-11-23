@@ -1,0 +1,407 @@
+{
+    "UCZaT_X_mc0BI-djXOlfhqWQ": {
+        "title": "VICE News",
+        "tags": {
+            "news": 18,
+            "vice news 2019": 18,
+            "vice video": 17,
+            "impeachment hearings": 5,
+            "donald trump": 5,
+            "the impeachment show": 5,
+            "impeachment inquiry": 5,
+            "vice news international": 3,
+            "happening now": 3,
+            "trump supporters": 2
+        }
+    },
+    "UCgBVz3EzHYKpPS0BITvLRsg": {
+        "title": "kxan",
+        "tags": {
+            "kxanaustin": 25,
+            "kxanaustinnews": 25,
+            "austinnews": 8,
+            "kxan_news": 1,
+            "news": 1,
+            "austin": 1,
+            "austin news": 1,
+            "austin police department": 1,
+            "apd": 1,
+            "investigates": 1
+        }
+    },
+    "UC1yBKRuGpC1tSM73A0ZjYjQ": {
+        "title": "The Young Turks",
+        "tags": {
+            "political establishment": 22,
+            "2020": 15,
+            "2020 election": 13,
+            "impeachment investigation": 7,
+            "impeachment hearings": 5,
+            "public impeachment hearings": 5,
+            "democratic debate": 5,
+            "medicare for all": 5,
+            "healthcare": 5,
+            "health insurance": 5
+        }
+    },
+    "UCSrZ3UV4jOidv8ppoVuvW9Q": {
+        "title": "euronews (in English)",
+        "tags": {
+            "web-digital-stories": 9,
+            "world": 4,
+            "unreported-europe": 3,
+            "inspire-middle-east": 3,
+            "the-cube": 2,
+            "domestic violence": 2,
+            "ukraine": 1,
+            "soviet union": 1,
+            "famine": 1,
+            "weather": 1
+        }
+    },
+    "UCkUGywMJVJ9wSN-8OHzLL-w": {
+        "title": "RockNewmanShow",
+        "tags": {
+            "gentrification": 2,
+            "ned sublette": 1,
+            "constance sublette": 1,
+            "rock newman": 1,
+            "slave breeding": 1,
+            "thomas jefferson": 1,
+            "american slavery": 1,
+            "american slave coast": 1,
+            "abraham lincoln": 1,
+            "george washington slaves": 1
+        }
+    },
+    "UCUMZ7gohGI9HcU9VNsr2FJQ": {
+        "title": "Bloomberg",
+        "tags": {
+            "bloomberg": 25,
+            "technology": 3,
+            "climate change": 3,
+            "businessweek": 3,
+            "traveler": 2,
+            "south korea": 2,
+            "business": 2,
+            "disease": 2,
+            "medicine": 2,
+            "space": 2
+        }
+    },
+    "UC-3jIAlnQmbbVMV6gR7K8aQ": {
+        "title": "The Majority Report w/ Sam Seder",
+        "tags": {
+            "sam seder": 25,
+            "majority report": 25,
+            "politics today": 25,
+            "progressive news": 25,
+            "political podcast": 25,
+            "majority fm": 25,
+            "seder today": 25,
+            "sam seder podcast": 25,
+            "liberal news": 25,
+            "democrats": 25
+        }
+    },
+    "UCWAN-rRJFLosqgiiIFVpkEQ": {
+        "title": "StormChasingVideo",
+        "tags": {
+            "winter storm": 2,
+            "snow storm": 2,
+            "wisconsin": 2,
+            "scvwordpress": 1,
+            "weather": 1,
+            "storms": 1,
+            "hail storm": 1,
+            "phoenix": 1,
+            "az": 1,
+            "arizona": 1
+        }
+    },
+    "UCPgLNge0xqQHWM5B5EFH9Cg": {
+        "title": "The Telegraph",
+        "tags": {
+            "labour": 4,
+            "politics": 3,
+            "jeremy corbyn": 3,
+            "fire": 3,
+            "manifesto": 3,
+            "police": 2,
+            "brexit deal": 2,
+            "boris johnson": 2,
+            "boris": 2,
+            "conservatives": 2
+        }
+    },
+    "UCIjuLiLHdFxYtFmWlbTGQRQ": {
+        "title": "Peter Schiff",
+        "tags": {
+            "gold": 11,
+            "inflation": 6,
+            "dollar": 6,
+            "interest rates": 6,
+            "silver": 6,
+            "economy": 5,
+            "fed": 5,
+            "recession": 5,
+            "bitcoin": 4,
+            "peter schiff": 4
+        }
+    },
+    "UCn8zNIfYAQNdrFRrr8oibKw": {
+        "title": "VICE",
+        "tags": {
+            "docs": 25,
+            "culture": 25,
+            "lifestyle": 25,
+            "independent": 25,
+            "vice.com": 25,
+            "vice": 25,
+            "vice videos": 25,
+            "documentary": 24,
+            "interview": 24,
+            "underground": 24
+        }
+    },
+    "UCuFFtHWoLl5fauMMD5Ww2jA": {
+        "title": "CBC News",
+        "tags": {
+            "news": 6,
+            "money": 4,
+            "federal election": 3,
+            "politics": 3,
+            "western alienation": 3,
+            "impeachment": 2,
+            "canada": 2,
+            "construction": 2,
+            "home": 2,
+            "departmental review": 2
+        }
+    },
+    "UCM2YmsRUeIbRkqjgNm0eTGQ": {
+        "title": "Journeyman Pictures",
+        "tags": {
+            "extinction": 3,
+            "poaching": 3,
+            "elephants": 3,
+            "communism": 2,
+            "nature": 2,
+            "illness": 2,
+            "ethics": 2,
+            "africa": 2,
+            "central africa": 2,
+            "cameroon": 2
+        }
+    },
+    "UCupvZG-5ko_eiXAupbDfxWw": {
+        "title": "CNN",
+        "tags": {
+            "ukraine": 3,
+            "cnn international": 3,
+            "us news": 2,
+            "biden": 2,
+            "2020": 2,
+            "cnn tonight": 2,
+            "don lemon": 2,
+            "hong kong": 2,
+            "chris cuomo": 2,
+            "impeachment": 2
+        }
+    },
+    "UCbjBOso0vpWgDht9dPIVwhQ": {
+        "title": "Thom Hartmann Program",
+        "tags": {
+            "quid pro quo": 2,
+            "thom hartmann": 1,
+            "politics": 1,
+            "congress": 1,
+            "senate": 1,
+            "washington": 1,
+            "thom hartmann program": 1,
+            "too far left": 1,
+            "obama revolutionary democrats": 1,
+            "obama": 1
+        }
+    },
+    "UC52X5wxOL_s5yw0dQk7NtgA": {
+        "title": "Associated Press",
+        "tags": {
+            "news": 19,
+            "aftermath": 2,
+            "ap news": 2,
+            "local news": 2,
+            "associated press": 1,
+            "apus127205": 1,
+            "a5f8336caf0b40219c2be52a2ef3dbed": 1,
+            "iraq pence (cr)": 1,
+            "adil abdul-mahdi": 1,
+            "michael pence": 1
+        }
+    },
+    "UCKw8kdkYfmuNSVehGoDw8Mg": {
+        "title": "TYT's The Conversation",
+        "tags": {
+            "political establishment": 24,
+            "tyt interview": 24,
+            "progressive democrat": 8,
+            "income inequality": 2,
+            "housing crisis": 2,
+            "justice democrats": 2,
+            "191121__tc01gallagher": 1,
+            "news": 1,
+            "politics": 1,
+            "tyt": 1
+        }
+    },
+    "UCHqC-yWZ1kri4YzwRSt6RGQ": {
+        "title": "Right Side Broadcasting Network",
+        "tags": {
+            "speech": 3,
+            "donald trump": 1,
+            "president trump": 1,
+            "live stream": 1,
+            "trump rally": 1,
+            "bossier city": 1,
+            "louisiana": 1,
+            "trump rally live": 1,
+            "#trump": 1,
+            "#rally": 1
+        }
+    },
+    "UCoWIVzxp6oLjsGMGuzzmxig": {
+        "title": "Comrade Stump",
+        "tags": {
+            "2016": 25,
+            "milo yiannopoulos": 2,
+            "donald trump": 1,
+            "can't stump": 1,
+            "ben carson": 1,
+            "united states": 1,
+            "make america great again": 1,
+            "north korea": 1,
+            "kim jong un": 1,
+            "kanye west": 1
+        }
+    },
+    "UC16niRr50-MSBwiO3YDb3RA": {
+        "title": "BBC News",
+        "tags": {
+            "bbc": 25,
+            "bbc news": 25,
+            "news": 25,
+            "hong kong": 3,
+            "hong kong protest": 3,
+            "boris johnson": 2,
+            "jo swinson": 2,
+            "election": 2,
+            "hong kong protests": 2,
+            "hong kong news": 2
+        }
+    },
+    "UCSvNzUDvn7FA8YBJM9E6o1A": {
+        "title": "American Heroes Channel",
+        "tags": {
+            "history documentary": 10,
+            "civil war": 6,
+            "battle tales": 5,
+            "military service": 5,
+            "military veteran": 5,
+            "combat veteran": 5,
+            "war stories": 5,
+            "adolf hitler": 3,
+            "holocaust": 3,
+            "genocide": 3
+        }
+    },
+    "UCY_Bq1AF0xvPUjaAqV7kweA": {
+        "title": "SBS Dateline",
+        "tags": {
+            "documentary": 20,
+            "international film": 20,
+            "journalism": 20,
+            "reporting": 20,
+            "medicine": 3,
+            "crime": 3,
+            "tradition": 3,
+            "culture": 3,
+            "freedom": 2,
+            "sex": 2
+        }
+    },
+    "UCXIJgqnII2ZOINSWNOGFThA": {
+        "title": "Fox News",
+        "tags": {
+            "politics": 15,
+            "fox news channel": 11,
+            "news": 9,
+            "impeachment inquiry": 9,
+            "trump news": 8,
+            "impeachment": 7,
+            "personality": 7,
+            "primary_politics": 7,
+            "president trump": 7,
+            "trump impeachment": 7
+        }
+    },
+    "UCJg9wBPyKMNA5sRDnvzmkdg": {
+        "title": "FOX 10 Phoenix",
+        "tags": {
+            "impeachment hearings": 7,
+            "news": 5,
+            "#impeachmenthearing": 5,
+            "#impeachmenthearings": 3,
+            "jim jordan": 2,
+            "closing statement": 2,
+            "shifty schiff": 2,
+            "impeachment hearing": 2,
+            "adam schiff": 2,
+            "impeachment hearing day 5": 2
+        }
+    },
+    "UCczrL-2b-gYK3l4yDld4XlQ": {
+        "title": "RT America",
+        "tags": {
+            "news": 7,
+            "strike": 5,
+            "sports": 3,
+            "teachers": 2,
+            "california": 2,
+            "brain": 2,
+            "oil": 2,
+            "sex offender": 2,
+            "protests": 2,
+            "recession": 1
+        }
+    },
+    "UCGy6uV7yqGWDeUWTZzT3ZEg": {
+        "title": "Rebel News",
+        "tags": {
+            "news": 24,
+            "ezra levant": 7,
+            "keean bexte": 6,
+            "sheila gunn reid": 5,
+            "china": 3,
+            "ron maclean": 3,
+            "wexit": 3,
+            "hong kong": 2,
+            "hong kong protest": 2,
+            "protest": 2
+        }
+    },
+    "UCHpw8xwDNhU9gdohEcJu4aA": {
+        "title": "The Guardian",
+        "tags": {
+            "guardian": 14,
+            "2019": 13,
+            "gdnpfpnewsuk": 9,
+            "uk": 9,
+            "gdnpfpnewsworld": 9,
+            "politics": 7,
+            "gdnpfpnewspolitics": 7,
+            "world": 6,
+            "poverty": 5,
+            "death anxiety": 4
+        }
+    }
+}

@@ -180,9 +180,9 @@ def get_data(category):
                 tags_list = snippet["tags"]
                 for tag in tags_list:
                     if tag in tag_dict:
-                        tag_dict[tag] += 1
+                        tag_dict[tag.lower()] += 1
                     else:
-                        tag_dict[tag] = 1
+                        tag_dict[tag.lower()] = 1
 
             except KeyError:
                 print("No tags for this video")

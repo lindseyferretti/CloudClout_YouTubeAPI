@@ -1,0 +1,441 @@
+{
+    "UCXAHpX2xDhmjqtA-ANgsGmw": {
+        "title": "Ezvid Wiki",
+        "tags": {}
+    },
+    "UCET0jPMhgiSfdZybhyrIMhA": {
+        "title": "Matt Schaefer",
+        "tags": {
+            "matt": 25,
+            "schaefer": 25,
+            "ms": 23,
+            "tech": 23,
+            "keyboard": 23,
+            "mechanical": 23,
+            "review": 23,
+            "unboxing": 23,
+            "setup": 23,
+            "gaming": 23
+        }
+    },
+    "UCTqMx8l2TtdZ7_1A40qrFiQ": {
+        "title": "XEETECHCARE",
+        "tags": {
+            "samsung galaxy s11": 11,
+            "galaxy s11 plus": 11,
+            "samsung galaxy s11 plus": 11,
+            "galaxy s11 leaks": 11,
+            "galaxy": 11,
+            "galaxy s11 rumors": 11,
+            "galaxy s11 unboxing": 11,
+            "samsung galaxy s11 leaks": 11,
+            "galaxy s11 camera": 11,
+            "galaxy s11 release date": 10
+        }
+    },
+    "UCwiIs5V6-zX8xaYgwhRhsHQ": {
+        "title": "iCrackUriDevice",
+        "tags": {
+            "icrackuridevice": 11,
+            "checkrain": 10,
+            "checkra1n": 10,
+            "checkra1n jailbreak": 7,
+            "13.2": 7,
+            "checkrain jailbreak": 5,
+            "how to jailbreak ios 13": 4,
+            "jailbreak for ios 13": 4,
+            "13.3": 4,
+            "mac": 3
+        }
+    },
+    "UCvWWf-LYjaujE50iYai8WgQ": {
+        "title": "Paul's Hardware",
+        "tags": {
+            "computer": 25,
+            "personal computer": 25,
+            "computer hardware": 25,
+            "paulshardware": 25,
+            "liquid cooling": 6,
+            "custom water cooling": 6,
+            "ryzen": 6,
+            "water cooled gaming pc": 5,
+            "paul and kyle": 5,
+            "tech news": 5
+        }
+    },
+    "UCr6JcgG9eskEzL-k6TtL9EQ": {
+        "title": "ZONEofTECH",
+        "tags": {
+            "iphone 11 pro max battery": 1,
+            "pixel 4 battery": 1,
+            "note 10 battery": 1,
+            "oneplus 7t pro battery": 1,
+            "iphone 11 pro max": 1,
+            "pixel 4 xl": 1,
+            "pixel 4": 1,
+            "google pixel 4": 1,
+            "note 10+": 1,
+            "note 10": 1
+        }
+    },
+    "UCzQ1L-wzA_1qmLf49ey9iTQ": {
+        "title": "DSLRguide",
+        "tags": {
+            "dslrguide": 25,
+            "simon cade": 24,
+            "filmmaking": 22,
+            "dslr guide": 15,
+            "video": 15,
+            "techniques": 15,
+            "tips": 3,
+            "cinematography": 3,
+            "cinematic": 3,
+            "writing": 2
+        }
+    },
+    "UC9fSZHEh6XsRpX-xJc6lT3A": {
+        "title": "UrAvgConsumer",
+        "tags": {
+            "uravgconsumer": 25,
+            "uac": 25,
+            "your average consumer": 23,
+            "gundam": 9,
+            "gunpla": 9,
+            "unboxing": 8,
+            "review": 7,
+            "vs": 7,
+            "iphone 11": 6,
+            "smart home": 5
+        }
+    },
+    "UCpT9kL2Eba91BB9CK6wJ4Pg": {
+        "title": "TechSmartt",
+        "tags": {
+            "techsmartt": 24,
+            "techsmart": 9,
+            "wish": 5,
+            "iphone 11": 4,
+            "airpods 2": 4,
+            "keaton": 4,
+            "wish app": 3,
+            "airpods": 3,
+            "apple airpods pro": 3,
+            "apple airpods": 3
+        }
+    },
+    "UCAY_M9HyJb8oMKPV1utQQyA": {
+        "title": "TechRadar",
+        "tags": {
+            "technology": 11,
+            "techradar": 10,
+            "review": 10,
+            "pixel 4": 9,
+            "google pixel": 9,
+            "pixel": 9,
+            "tech news": 8,
+            "hands on": 6,
+            "foldable": 5,
+            "gadgets": 5
+        }
+    },
+    "UChYU73igK5wQhWAXPh3X8PA": {
+        "title": "PhoneBuff",
+        "tags": {
+            "phonebuff": 25,
+            "phone buff": 25,
+            "phone": 25,
+            "smartphone": 24,
+            "tech review": 24,
+            "review": 24,
+            "overview": 24,
+            "tech": 24,
+            "android": 24,
+            "tech news": 24
+        }
+    },
+    "UC7YzoWkkb6woYwCnbWLn3ZA": {
+        "title": "wwjoshdew",
+        "tags": {
+            "google": 3,
+            "unboxing": 3,
+            "cpu cooler": 3,
+            "rgb": 3,
+            "noctua": 3,
+            "meshify c": 3,
+            "10": 2,
+            "pixel 4": 2,
+            "pixel 4 xl": 2,
+            "review": 2
+        }
+    },
+    "UCDlQwv99CovKafGvxyaiNDA": {
+        "title": "Jonathan Morrison",
+        "tags": {
+            "hands on": 7,
+            "tld": 3,
+            "unboxing": 2,
+            "review": 2,
+            "terror jr": 2,
+            "2019": 2,
+            "deep fusion photo": 2,
+            "deep fusion camera": 2,
+            "official": 2,
+            "comparison": 2
+        }
+    },
+    "UC3s0BtrBJpwNDaflRSoiieQ": {
+        "title": "Hak5",
+        "tags": {
+            "hak5": 25,
+            "hack": 25,
+            "technology": 25,
+            "darren kitchen": 25,
+            "hack5": 24,
+            "hacker": 24,
+            "shannon morse": 23,
+            "snubs": 23,
+            "def con 27": 8,
+            "las vegas": 8
+        }
+    },
+    "UC4QZ_LsYcvcq7qOsOhpAX4A": {
+        "title": "ColdFusion",
+        "tags": {
+            "coldfusion": 1,
+            "tv": 1,
+            "dagogo": 1,
+            "altraide": 1,
+            "technology": 1,
+            "apple": 1,
+            "google": 1,
+            "samsung": 1,
+            "facebook": 1,
+            "tesla": 1
+        }
+    },
+    "UCXGgrKt94gR6lmN4aN3mYTg": {
+        "title": "Austin Evans",
+        "tags": {
+            "austin evans": 25,
+            "this is": 25,
+            "tech": 22,
+            "ken": 7,
+            "ken bolido": 7,
+            "review": 6,
+            "apple": 5,
+            "gaming": 5,
+            "microsoft": 5,
+            "mystery tech": 4
+        }
+    },
+    "UCsW36751Gy-EAbHQwe9WBNw": {
+        "title": "PhoneDog",
+        "tags": {
+            "beauhd": 25,
+            "phonedog": 25,
+            "media": 25,
+            "technology": 10,
+            "mobile": 8,
+            "android": 7,
+            "google": 4,
+            "install": 4,
+            "top ios apps": 3,
+            "best android apps": 3
+        }
+    },
+    "UC5I2hjZYiW9gZPVkvzM8_Cw": {
+        "title": "Techmoan",
+        "tags": {
+            "player": 9,
+            "1980s": 5,
+            "2019": 4,
+            "tape": 4,
+            "review": 3,
+            "bluetooth": 3,
+            "clock": 3,
+            "digital": 3,
+            "demo": 3,
+            "recorder": 3
+        }
+    },
+    "UC9Tn-atYOt8qZP-oqui7bhw": {
+        "title": "Tech YES City",
+        "tags": {
+            "tech yes city": 24,
+            "tech vlog": 21,
+            "cheap gaming pc": 16,
+            "cheapest gaming pc": 16,
+            "pc gaming": 8,
+            "gaming pc": 5,
+            "pc build": 5,
+            "budget gaming pc": 4,
+            "how to optimize windows 10 for gaming": 4,
+            "hard drive": 3
+        }
+    },
+    "UCp1orOGJwZvjLAvckyxC4Nw": {
+        "title": "Bosnianbill",
+        "tags": {
+            "master pro series": 4,
+            "master 7050": 4,
+            "master lock 7050": 4,
+            "disc detainer lock": 2,
+            "lock pick": 2,
+            "disc detainer lock pick": 2,
+            "lock picking asmr": 2,
+            "bike lock": 2,
+            "tubular lock pick": 2,
+            "tubular lock pick homemade": 2
+        }
+    },
+    "UCgyqtNWZmIxTx3b6OxTSALw": {
+        "title": "Android Authority",
+        "tags": {
+            "mobile tech": 19,
+            "mobile": 19,
+            "mobile photography": 18,
+            "best android": 3,
+            "rog 2": 2,
+            "asus rog 2": 2,
+            "android 10": 2,
+            "android q": 2,
+            "best samsung": 2,
+            "smartphones": 1
+        }
+    },
+    "UCR0AnNR7sViH3TWMJl5jyxw": {
+        "title": "Jon Rettinger",
+        "tags": {
+            "jon rettinger": 24,
+            "jon4lakers": 24,
+            "technobuffalo": 24,
+            "apple": 12,
+            "iphone 11 pro": 10,
+            "iphone 11 pro max": 8,
+            "iphone 11": 7,
+            "new iphone": 6,
+            "apple iphone 11": 5,
+            "iphone 11 pro camera": 4
+        }
+    },
+    "UCUfgq9Gn8S041qQFl0C-CEQ": {
+        "title": "Tampatec",
+        "tags": {
+            "tech": 11,
+            "repair": 9,
+            "ebay repair challenge": 5,
+            "service": 5,
+            "how to fix samsung tv": 5,
+            "tv repair service": 5,
+            "electronics": 4,
+            "samsung tv repair": 4,
+            "tampatec": 3,
+            "fix": 3
+        }
+    },
+    "UCvIbgcm10GqMdwKho8C1Zmw": {
+        "title": "MW Technology",
+        "tags": {
+            "benchmarks": 4,
+            "4k camera comparison": 4,
+            "review": 3,
+            "battery life test": 3,
+            "camera comparison": 3,
+            "surface pro x vs surface pro 7": 2,
+            "battery life": 2,
+            "ps5": 2,
+            "nintendo switch lite review": 2,
+            "spec comparison": 2
+        }
+    },
+    "UCXuqSBlHAE6Xw-yeJA0Tunw": {
+        "title": "Linus Tech Tips",
+        "tags": {
+            "gaming": 11,
+            "pc": 11,
+            "review": 6,
+            "computer": 6,
+            "nvidia": 5,
+            "amd": 5,
+            "intel": 4,
+            "workstation": 4,
+            "performance": 4,
+            "competition": 3
+        }
+    },
+    "UCZDA1kA3y3EIg25BpcHSpwQ": {
+        "title": "Tinkernut",
+        "tags": {
+            "tips": 25,
+            "tricks": 25,
+            "tutorial": 25,
+            "tinkernut": 25,
+            "how to": 25,
+            "weekend hacker": 25,
+            "gigafide": 25,
+            "tinker": 25,
+            "arduino": 9,
+            "raspberry pi": 8
+        }
+    },
+    "UCT9D87j5W7PtE7NHOR5DUOQ": {
+        "title": "Computing Forever",
+        "tags": {
+            "computing forever": 24,
+            "dave cullen": 24,
+            "star trek": 2,
+            "ireland": 2,
+            "charlie\u2019s angels": 1,
+            "how is this a thing?": 1,
+            "star wars": 1,
+            "rise of skywalker": 1,
+            "rise of skywalker trailer": 1,
+            "star wars: the rise of skywalker": 1
+        }
+    },
+    "UCl76vrtVLcPPnOSIHVs8HMg": {
+        "title": "Sonic Electronix",
+        "tags": {
+            "sonicelectronix.com": 10,
+            "car audio": 9,
+            "car speakers": 5,
+            "sonic electronix review": 4,
+            "ces 2019": 4,
+            "subwoofers": 3,
+            "easy to install": 3,
+            "crutchfield": 3,
+            "speakers": 2,
+            "stereo": 2
+        }
+    },
+    "UC5lDVbmgb-sAcx2fjwy3KQA": {
+        "title": "Booredatwork.com",
+        "tags": {
+            "review": 22,
+            "gadget review": 21,
+            "project xcloud beta": 2,
+            "cloud gaming": 2,
+            "motorola razr vs galaxy fold": 2,
+            "motorola razr 2019": 2,
+            "samsung": 2,
+            "samsung galaxy fold": 2,
+            "moto": 2,
+            "galaxy fold review": 2
+        }
+    },
+    "UCsTcErHg8oDvUnTzoqsYeNw": {
+        "title": "Unbox Therapy",
+        "tags": {
+            "unbox therapy": 24,
+            "lew later": 22,
+            "unboxing": 20,
+            "review": 20,
+            "2019": 19,
+            "apple": 17,
+            "iphone 11": 16,
+            "iphone 11 pro": 15,
+            "iphone 11 pro max": 15,
+            "iphone": 13
+        }
+    }
+}
