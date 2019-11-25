@@ -1,0 +1,437 @@
+{
+    "UCPDXXXJj9nax0fr0Wfc048g": {
+        "title": "CollegeHumor",
+        "tags": {
+            "comedy": 25,
+            "sketch comedy": 25,
+            "internet": 25,
+            "humor": 25,
+            "funny": 25,
+            "sketch": 25,
+            "raphael chestang": 14,
+            "mike trapp": 12,
+            "katie marovitch": 12,
+            "jessica ross": 9
+        }
+    },
+    "UCxJf49T4iTO_jtzWX3rW_jg": {
+        "title": "LeafyIsHere",
+        "tags": {
+            "parody": 20,
+            "roasts": 18,
+            "roasted": 18,
+            "parodying": 17,
+            "roast": 17,
+            "compiliation": 17,
+            "exposed": 15,
+            "comp": 15,
+            "react": 15,
+            "reaction": 15
+        }
+    },
+    "UCi-5OZ2tYuwMLIcEyOsbdRA": {
+        "title": "Annoying Orange",
+        "tags": {
+            "annoying orange": 25,
+            "funny": 25,
+            "fruit": 25,
+            "talking": 25,
+            "animation": 25,
+            "daneboe": 25,
+            "cartoon": 22,
+            "comedy": 22,
+            "parody": 19,
+            "spoof": 14
+        }
+    },
+    "UCUUJ3H-uNumHeAUDzsE1HyQ": {
+        "title": "HiddenReaction",
+        "tags": {
+            "love": 5,
+            "happy": 5,
+            "relationship": 5,
+            "goals": 5,
+            "picking": 5,
+            "up": 5,
+            "vlog": 5,
+            "hiddenreaction": 4,
+            "zade abdullah": 4,
+            "kyle nutt": 4
+        }
+    },
+    "UCPDis9pjXuqyI7RYLJ-TTSA": {
+        "title": "FailArmy",
+        "tags": {
+            "failarmy": 25,
+            "fail army": 25,
+            "fails": 25,
+            "funny videos": 25,
+            "fails of the week": 25,
+            "funny fails": 25,
+            "fail": 25,
+            "failarmy 2019": 25,
+            "fails 2019": 23,
+            "fail 2019": 18
+        }
+    },
+    "UCRMyWO_XpLOhGFCYNmq9oAQ": {
+        "title": "LaToya Forever",
+        "tags": {
+            "latoyaforever": 24,
+            "samia471": 23,
+            "vlogger": 23,
+            "latoya forever": 21,
+            "latoyaslife": 21,
+            "latoya's life": 21,
+            "food challenge": 3,
+            "makeup challenge": 2,
+            "labor and delivery": 2,
+            "latoya forever storytime": 2
+        }
+    },
+    "UCUsN5ZwHx2kILm84-jPDeXw": {
+        "title": "Comedy Central",
+        "tags": {
+            "funny video": 23,
+            "comedy central": 21,
+            "comedy": 21,
+            "funny": 21,
+            "comedians": 21,
+            "comedy videos": 20,
+            "comedian": 17,
+            "comedy show": 12,
+            "tv show": 10,
+            "tv comedy": 10
+        }
+    },
+    "UCSAUGyc_xA8uYzaIVG6MESQ": {
+        "title": "nigahiga",
+        "tags": {
+            "ryan": 25,
+            "higa": 25,
+            "higatv": 25,
+            "nigahiga": 25,
+            "podcast": 19,
+            "offthepill": 18,
+            "ryanhiga": 16,
+            "ninja melk": 10,
+            "rhpc": 7,
+            "paco": 4
+        }
+    },
+    "UCay_OLhWtf9iklq8zg_or0g": {
+        "title": "As/Is",
+        "tags": {
+            "buzzfeed": 25,
+            "as/is": 25,
+            "as is": 25,
+            "women": 24,
+            "buzzfeed as is": 23,
+            "women try": 22,
+            "fashion": 12,
+            "style": 12,
+            "style and fashion": 12,
+            "style challenge": 10
+        }
+    },
+    "UCMu5gPmKp5av0QCAajKTMhw": {
+        "title": "ERB",
+        "tags": {
+            "rap battle": 15,
+            "rap battles of history": 13,
+            "erb": 11,
+            "epic rap battles of history": 11,
+            "epic rap battles": 11,
+            "erb season 6": 11,
+            "rap battles": 8,
+            "erb new": 6,
+            "erb of history": 6,
+            "new erb": 4
+        }
+    },
+    "UCSIS1n7bcXaebhM8nwjZCRQ": {
+        "title": "SlimMofication",
+        "tags": {
+            "slimmofication": 19,
+            "hilarious": 17,
+            "pranks": 17,
+            "slim albaher": 17,
+            "best funny entertainment": 16,
+            "funny": 10,
+            "family": 4,
+            "adam saleh": 4,
+            "vlogs": 3,
+            "crazy": 3
+        }
+    },
+    "UCIveFvW-ARp_B_RckhweNJw": {
+        "title": "StevenCrowder",
+        "tags": {
+            "steven crowder": 25,
+            "stephen crowder": 25,
+            "louder with crowder": 25,
+            "politics": 25,
+            "news": 25,
+            "crowder": 24,
+            "mug club": 24,
+            "comedy": 24,
+            "liberal": 24,
+            "libertarian": 24
+        }
+    },
+    "UCJb7_Qsz9pNQDcOA4YA6TxA": {
+        "title": "Jinx",
+        "tags": {
+            "comedy": 18,
+            "laugh": 10,
+            "game": 10,
+            "gaming": 10,
+            "vine": 9,
+            "vines": 9,
+            "gifs": 9,
+            "gamers": 9,
+            "gif": 8,
+            "tik tok": 7
+        }
+    },
+    "UC1r4VtVE__5K6c_L_3Vlxxg": {
+        "title": "fouseyTUBE",
+        "tags": {
+            "fousey": 25,
+            "fouseytube": 24,
+            "boxing": 20,
+            "everlast": 11,
+            "exercise": 10,
+            "fitness": 10,
+            "yousef erakat": 7,
+            "fousey boxing": 6,
+            "training": 6,
+            "gym": 6
+        }
+    },
+    "UCsKQLakuQKvr4LG4VLOpWDQ": {
+        "title": "2M Media",
+        "tags": {
+            "funny": 25,
+            "funniest": 25,
+            "baby": 25,
+            "babies": 25,
+            "hilarious": 25,
+            "laugh": 25,
+            "laughing": 25,
+            "cute": 25,
+            "cutest": 25,
+            "laughter": 25
+        }
+    },
+    "UCNdqe5zJ6k-i7XKoYWA4Z2g": {
+        "title": "Wassabi",
+        "tags": {
+            "family friendly": 25,
+            "smile": 25,
+            "new house": 4,
+            "surprise": 3,
+            "makeover": 2,
+            "best friend": 2,
+            "brothers": 2,
+            "girlfriend": 2,
+            "boyfriend": 2,
+            "moving": 2
+        }
+    },
+    "UCiyA4ga7XODFzPEMYewgnRg": {
+        "title": "Bert and Sykes",
+        "tags": {
+            "celebrities with weird/hidden talents": 4,
+            "ariana grande": 4,
+            "harry styles": 2,
+            "one direction": 2,
+            "jesy nelson: odd one out": 2,
+            "camila cabello": 2,
+            "funniest design fails ever": 2,
+            "camila": 2,
+            "stranger things": 2,
+            "celebrities": 2
+        }
+    },
+    "UCpko_-a4wgz2u_DgDgd9fqA": {
+        "title": "BuzzFeedVideo",
+        "tags": {
+            "buzzfeedvideo": 24,
+            "buzzfeed": 15,
+            "buzzfeed video": 12,
+            "taste test": 6,
+            "food challenge": 6,
+            "food": 5,
+            "people try": 4,
+            "relationships": 3,
+            "story time": 3,
+            "storytime": 3
+        }
+    },
+    "UCOl3NOq9Z40pi0MFi99VxSw": {
+        "title": "King Jamal",
+        "tags": {
+            "king jamal": 5,
+            "ksi vs logan paul": 3,
+            "challenger games": 3,
+            "deestroying wins 100m dash": 3,
+            "charly jordan": 3,
+            "challenger games live": 3,
+            "challenger games livestream": 3,
+            "nba memes": 3,
+            "2019 nba finals": 3,
+            "nba finals memes": 3
+        }
+    },
+    "UC9gFih9rw0zNCK3ZtoKQQyA": {
+        "title": "JennaMarbles",
+        "tags": {
+            "jenna": 25,
+            "marbles": 25,
+            "mourey": 25,
+            "julien": 21,
+            "boyfriend": 21,
+            "kermit": 21,
+            "solomita": 20,
+            "funny": 16,
+            "vlog": 14,
+            "bunny": 14
+        }
+    },
+    "UCfm4y4rHF5HGrSr-qbvOwOg": {
+        "title": "Lilly Singh",
+        "tags": {
+            "team super": 25,
+            "comedy": 25,
+            "skit": 25,
+            "youtube superwoman": 25,
+            "types of people": 25,
+            "superwoman youtube": 25,
+            "rant": 24,
+            "manjeet": 23,
+            "paramjeet": 23,
+            "parents": 23
+        }
+    },
+    "UCazMm3tOCkYrIGE_17j0mVg": {
+        "title": "Bart Baker",
+        "tags": {
+            "lil pump esketit": 4,
+            "esketit": 4,
+            "gucci gang official music video": 4,
+            "taylor": 4,
+            "official video": 3,
+            "reacts": 3,
+            "reaction": 3,
+            "disstrack": 3,
+            "ft.": 3,
+            "logan": 3
+        }
+    },
+    "UCgPClNr5VSYC3syrDUIlzLw": {
+        "title": "Adult Swim",
+        "tags": {
+            "adult swim": 25,
+            "comedy": 13,
+            "funny": 13,
+            "rick and morty": 11,
+            "cartoon network": 8,
+            "video": 8,
+            "justin roiland": 7,
+            "dan harmon": 7,
+            "rick and morty season 4": 7,
+            "williams street": 7
+        }
+    },
+    "UC0v-tlzsn0QZwJnkiaUSJVQ": {
+        "title": "FBE",
+        "tags": {
+            "react": 22,
+            "reaction": 22,
+            "teens react": 22,
+            "youtubers react": 21,
+            "fbe": 21,
+            "adults react": 20,
+            "for the first time": 19,
+            "elders react": 19,
+            "parents react": 19,
+            "kids react": 18
+        }
+    },
+    "UCHEf6T_gVq4tlW5i91ESiWg": {
+        "title": "REACT",
+        "tags": {
+            "react": 23,
+            "reaction": 23,
+            "fbe": 23,
+            "laugh challenge": 20,
+            "guess that": 20,
+            "react channel": 17,
+            "people vs food": 14,
+            "fine brothers": 13,
+            "do they know it": 13,
+            "find the flaws": 13
+        }
+    },
+    "UCzQUP1qoWDoEbmsQxvdjxgQ": {
+        "title": "PowerfulJRE",
+        "tags": {
+            "podcast": 25,
+            "comedy": 25,
+            "stand": 25,
+            "up": 25,
+            "funny": 25,
+            "comedian": 17,
+            "author": 2,
+            "joe rogan experience": 1,
+            "jre": 1,
+            "joe": 1
+        }
+    },
+    "UCY30JRSgfhYXA6i6xX1erWg": {
+        "title": "Smosh",
+        "tags": {
+            "smosh": 25,
+            "smosh pit": 25,
+            "smosh games": 25,
+            "funny": 25,
+            "comedy": 25,
+            "ian hecox": 18,
+            "shayne topp": 15,
+            "courtney miller": 15,
+            "every blank ever": 14,
+            "damien haas": 14
+        }
+    },
+    "UCBHu7LsKiwiYViR230RtsCA": {
+        "title": "Joey Salads",
+        "tags": {
+            "pranks": 25,
+            "joey salads": 25,
+            "prank": 24,
+            "joey": 22,
+            "prank 2019": 21,
+            "best pranks": 20,
+            "pranks 2019": 20,
+            "2019 prank": 20,
+            "salads": 19,
+            "2019 pranks": 19
+        }
+    },
+    "UC4PooiX37Pld1T8J5SYT-SQ": {
+        "title": "Good Mythical Morning",
+        "tags": {
+            "gmm": 25,
+            "good mythical morning": 25,
+            "rhettandlink": 25,
+            "rhett and link": 25,
+            "mythical morning": 25,
+            "mythical": 25,
+            "rhett": 25,
+            "link": 25,
+            "season 16": 25,
+            "taste test": 7
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "UCBR8-60-B28hp2BmDPdntcQ": {
+        "title": "YouTube",
+        "tags": {
+            "beauty": 4,
+            "pride": 3,
+            "world pride": 3,
+            "jarvis johnson": 2,
+            "tarek ali": 2,
+            "creators": 2,
+            "youtube creators": 2,
+            "fashion": 2,
+            "triple j": 2,
+            "music": 2
+        }
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "UC6QWhGQqf0YDYdRb0n6ojWw": {
+        "title": "Brooklyn and Bailey",
+        "tags": {
+            "twins": 10,
+            "twin": 10,
+            "twin swap": 7,
+            "identical twins": 6,
+            "girl": 6,
+            "girls": 6,
+            "college": 5,
+            "brooklyn": 5,
+            "bailey": 5,
+            "the ace family": 5
+        }
+    },
+    "UCAoMPWcQKA_9Af5YhWdrZgw": {
+        "title": "MyLifeAsEva",
+        "tags": {
+            "my life as eva": 25,
+            "literally my life": 25,
+            "morning routine": 25,
+            "high school": 25,
+            "expectation vs. reality": 25,
+            "lifestyle": 25,
+            "eva": 24,
+            "back to school": 24,
+            "vlog channel": 24,
+            "song": 24
+        }
+    },
+    "UCbO9bltbkYwa56nZFQx6XJg": {
+        "title": "Manny Mua",
+        "tags": {
+            "makeup": 16,
+            "laura lee": 15,
+            "james charles": 14,
+            "new makeup": 10,
+            "makeup tutorial": 9,
+            "review": 8,
+            "first impressions": 7,
+            "manny mua": 6,
+            "beauty": 6,
+            "lunar beauty": 5
+        }
+    },
+    "UCzj41PvS6wpzs4JkXTY0ikA": {
+        "title": "Maria Bethany",
+        "tags": {
+            "maria bethany": 25,
+            "how to": 22,
+            "get ready with me": 18,
+            "makeup routine": 6,
+            "maria bethany hairstyles": 6,
+            "everyday makeup": 6,
+            "makeup tutorial": 5,
+            "diy": 5,
+            "morning routine": 5,
+            "skincare routine": 4
+        }
+    },
+    "UCa0PgZLJfRuGrp7DL1urX9Q": {
+        "title": "My Natural Sistas",
+        "tags": {
+            "4b": 7,
+            "4a": 7,
+            "protective style": 5,
+            "hair tutorial": 5,
+            "vlog": 3,
+            "lifestyle": 3,
+            "4c": 3,
+            "love": 3,
+            "motherhood": 3,
+            "pampers pure": 2
+        }
+    },
+    "UCJi_befq0YDYJ9fCeyHxJbg": {
+        "title": "MayBaby",
+        "tags": {
+            "maybaby": 16,
+            "upload today": 4,
+            "upload": 3,
+            "vlog": 2,
+            "storytime": 2,
+            "meg deangelis": 2,
+            "clueless": 2,
+            "back to school": 2,
+            "i only ate red food for 24 hours": 2,
+            "i only ate pink food for 24 hours": 2
+        }
+    },
+    "UCSReacwdlGHHyTIyuROhVdQ": {
+        "title": "AlishaMarie",
+        "tags": {
+            "alisha": 25,
+            "alishamarie": 25,
+            "challenge": 6,
+            "fashion": 4,
+            "funny": 3,
+            "haul": 3,
+            "shopping": 3,
+            "try on": 3,
+            "money": 2,
+            "youtuber": 2
+        }
+    },
+    "UCWWyv3cV6dH1Q8rdGFu10hQ": {
+        "title": "Cosmobyhaley",
+        "tags": {
+            "haley wight": 23,
+            "cosmo by haley": 22,
+            "cosmobyhaley": 22,
+            "makeup": 18,
+            "get ready with me": 16,
+            "glitter": 13,
+            "tutorial": 12,
+            "grwm": 11,
+            "highlight": 11,
+            "look": 9
+        }
+    },
+    "UCXtOF5CJPj40m9RyhVkj2KQ": {
+        "title": "Paige Secosky",
+        "tags": {
+            "vlog": 23,
+            "vlogger": 23,
+            "a day in my life": 21,
+            "vlogging": 19,
+            "manhattan": 19,
+            "college": 19,
+            "lifestyle": 17,
+            "new york": 15,
+            "student": 13,
+            "fashion": 13
+        }
+    },
+    "UCGUkuAaBDkYPdUhIetzLQxQ": {
+        "title": "Clevver Style",
+        "tags": {
+            "clevver": 25,
+            "clevver style": 25,
+            "review": 6,
+            "haul": 6,
+            "fashion": 4,
+            "outfit ideas": 4,
+            "funny": 3,
+            "fashion review": 3,
+            "fashion police": 3,
+            "cheat day": 3
+        }
+    },
+    "UCB0d0JLn1WcGYcwwZ87d2LA": {
+        "title": "Rclbeauty101",
+        "tags": {
+            "rclbeauty101": 23,
+            "makeup": 5,
+            "rachel levin": 5,
+            "style swap": 4,
+            "swap": 4,
+            "swapping": 4,
+            "tana mongeau": 4,
+            "funny": 4,
+            "makeup tutorial": 3,
+            "professional makeup artist": 3
+        }
+    },
+    "UC9Zl_UOLc2F5Aq45G6DxEaQ": {
+        "title": "Naptural85",
+        "tags": {
+            "black natural hair": 22,
+            "simple natural hair care": 21,
+            "type 4 hair": 16,
+            "how to grow healthy natural hair": 16,
+            "black hair care": 16,
+            "curly hair": 12,
+            "natural hairstyles for black women": 12,
+            "4c natural hair": 11,
+            "black hair": 9,
+            "african american hair": 8
+        }
+    },
+    "UCm0f2zUj2eSEKfH8IpyHV3Q": {
+        "title": "Beardbrand",
+        "tags": {
+            "beardbrand": 25,
+            "barbershop": 9,
+            "barber": 8,
+            "haircut": 7,
+            "skin fade": 7,
+            "fade": 6,
+            "how to cut hair": 6,
+            "men's haircut": 5,
+            "mens grooming": 4,
+            "mens haircut": 4
+        }
+    },
+    "UC24WKCXwCdKOmdsq6o74b8A": {
+        "title": "Ashley Devonna",
+        "tags": {
+            "apartment hunting": 1,
+            "apartment hunting vlog": 1,
+            "apartment hunting in dallas": 1,
+            "apartment shopping": 1,
+            "apartment shopping vlog": 1,
+            "apartment tour": 1,
+            "luxury apartment tour": 1,
+            "luxury apartment hunting": 1,
+            "ashley devonna": 1,
+            "ashleydbeauty": 1
+        }
+    },
+    "UCNRfqSkBqZR8Ge_QnfwqgFQ": {
+        "title": "Wengie's Life",
+        "tags": {
+            "wengie": 25,
+            "vlog": 21,
+            "daily vlog": 20,
+            "video blog": 18,
+            "challenge": 10,
+            "unicorn hair": 3,
+            "hairstyles": 2,
+            "hair tutorial": 2,
+            "cat videos": 2,
+            "lifestyle": 2
+        }
+    },
+    "UCm_sleVIUzCXrqqmHEgMn6Q": {
+        "title": "Kathryn Ann",
+        "tags": {
+            "kathryn ann": 23,
+            "life": 11,
+            "how to": 9,
+            "school": 8,
+            "nursing school": 7,
+            "easy": 7,
+            "tips": 6,
+            "nurse": 5,
+            "studying": 5,
+            "planning": 4
+        }
+    },
+    "UCiL6WwlHv2DCGpKUjWpSXrg": {
+        "title": "Cambria Joy",
+        "tags": {
+            "cambria joy": 24,
+            "health": 21,
+            "fitness": 21,
+            "healthy": 19,
+            "workout": 14,
+            "get fit": 14,
+            "healthy lifestyle": 12,
+            "healthy recipes": 8,
+            "get healthy": 7,
+            "how to start a healthy lifestyle": 6
+        }
+    },
+    "UCkvK_5omS-42Ovgah8KRKtg": {
+        "title": "jeffreestar",
+        "tags": {
+            "jeffree star": 25,
+            "ryland adams": 22,
+            "shane dawson": 22,
+            "jeffree star cosmetics": 20,
+            "jeffree star approved": 18,
+            "tati westbrook": 14,
+            "dolan twins": 12,
+            "nikkietutorials": 11,
+            "jeffree star review": 9,
+            "jawbreaker palette": 9
+        }
+    },
+    "UCBghOlOY0rHpNmj-0cWMY5g": {
+        "title": "Sally Jo",
+        "tags": {
+            "sally jo vlogs": 25,
+            "nz": 25,
+            "australia": 10,
+            "sydney": 8,
+            "sally jo shaaanxo": 7,
+            "sally jo hickey": 5,
+            "follow me vlog": 5,
+            "sally jo life update": 5,
+            "try on haul": 4,
+            "new zealand": 4
+        }
+    },
+    "UC2LgZ_4GzSFQS-3a87_Jc6w": {
+        "title": "Cute Girls Hairstyles",
+        "tags": {
+            "brooklynandbailey": 22,
+            "hair": 21,
+            "hairstyles": 21,
+            "family": 21,
+            "brooklyn": 21,
+            "bailey": 21,
+            "kamrinoel": 21,
+            "kamri noel": 21,
+            "kamri": 21,
+            "rylan": 21
+        }
+    },
+    "UCfLkhIbGHcY_GSb9HFW9oeQ": {
+        "title": "Sharee Love",
+        "tags": {
+            "sharee": 13,
+            "sharee love": 11,
+            "shareeslove": 7,
+            "kelliesweet": 3,
+            "wig": 2,
+            "hair": 2,
+            "cheeks": 2,
+            "piercings": 2,
+            "vlog": 2,
+            "10minmakeupchallenge": 1
+        }
+    },
+    "UCD9PZYV5heAevh9vrsYmt1g": {
+        "title": "Wengie",
+        "tags": {
+            "wengie": 25,
+            "challenge": 17,
+            "fun": 17,
+            "kid": 15,
+            "comedy": 14,
+            "educational": 13,
+            "best": 13,
+            "kids": 13,
+            "hacks": 12,
+            "do it yourself": 11
+        }
+    },
+    "UCGwPbAQdGA3_88WBuGtg9tw": {
+        "title": "grav3yardgirl",
+        "tags": {
+            "beauty": 19,
+            "how to": 19,
+            "makeup": 19,
+            "style": 19,
+            "fashion": 19,
+            "new": 19,
+            "clothes": 19,
+            "clothing": 19,
+            "2019": 18,
+            "follow me around": 17
+        }
+    },
+    "UCdpHMCMHVfVS8wa-5LS3fCQ": {
+        "title": "MyaNicole",
+        "tags": {
+            "makeup": 5,
+            "routine": 3,
+            "2017": 3,
+            "starbucks": 3,
+            "9-14-16": 3,
+            "back to school": 2,
+            "haul": 2,
+            "morning": 2,
+            "maybeline": 2,
+            "tour": 2
+        }
+    },
+    "UCJRFJl5UDs4Citzs-uRcrxQ": {
+        "title": "Danielle Mansutti",
+        "tags": {
+            "danimansutti": 24,
+            "moving house": 9,
+            "moving vlog": 8,
+            "moving vlog uk": 8,
+            "london vlog": 7,
+            "moving house vlog": 7,
+            "moving to london": 7,
+            "danimansutti house": 7,
+            "moving day": 6,
+            "moving house vlog uk": 6
+        }
+    },
+    "UC8v4vz_n2rys6Yxpj8LuOBA": {
+        "title": "KathleenLights",
+        "tags": {
+            "kathleen lights": 23,
+            "colourpop": 17,
+            "beauty": 14,
+            "guru": 14,
+            "drugstore": 11,
+            "high end": 10,
+            "kathleen fuentes": 7,
+            "lightslabel": 7,
+            "first impressions": 6,
+            "review": 6
+        }
+    },
+    "UCxOeBwl01LMHuXpP3CpJfCw": {
+        "title": "Tasmin Dhaliwal",
+        "tags": {
+            "tasmin": 9,
+            "tasmin dhaliwal": 8,
+            "grwm": 4,
+            "follow me around": 4,
+            "back to school": 3,
+            "makeup look": 3,
+            "punjabi": 3,
+            "vlog": 2,
+            "indian wedding": 2,
+            "punjabi wedding": 2
+        }
+    },
+    "UCuVHOs0H5hvAHGr8O4yIBNQ": {
+        "title": "Niki and Gabi",
+        "tags": {
+            "niki and gabi": 25,
+            "challenge": 14,
+            "niki and gabi challenge": 5,
+            "funny prank": 5,
+            "swap": 4,
+            "opposite twins": 4,
+            "celebrities": 4,
+            "drive thru": 4,
+            "drive thru prank": 4,
+            "niki and gabi songs": 3
+        }
+    },
+    "UC5lRKBgDMpPas8-VP3wsh0A": {
+        "title": "Kaushal Beauty",
+        "tags": {
+            "kaushal beauty": 25,
+            "makeup tutorial": 24,
+            "how to": 11,
+            "get ready with me": 9,
+            "kaushal": 8,
+            "indian makeup tutorial": 6,
+            "makeup": 5,
+            "before and after": 4,
+            "indian wedding makeup": 4,
+            "indian wedding": 3
+        }
+    },
+    "UCBMxQPhfM6nkhQ8vPfQhkCg": {
+        "title": "ThreadBanger",
+        "tags": {
+            "threadbanger": 22,
+            "how to": 22,
+            "man vs pin": 22,
+            "pinterest": 22,
+            "pinterest fails": 21,
+            "halloween": 3,
+            "simplynailogical": 2,
+            "haunt": 2,
+            "corinne vs pin": 2,
+            "5 minute craps": 2
+        }
+    }
+}

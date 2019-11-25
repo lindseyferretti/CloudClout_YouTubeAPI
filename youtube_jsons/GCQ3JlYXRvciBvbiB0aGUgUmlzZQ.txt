@@ -1,0 +1,452 @@
+{
+    "UCqQsOTPIdXhRZlmhZf-EYAg": {
+        "title": "Sam VanFleet",
+        "tags": {
+            "horse": 8,
+            "horses": 8,
+            "equestrian": 7,
+            "mustang": 7,
+            "extreme mustang makeover": 7,
+            "mustangs": 6,
+            "equestrians": 6,
+            "training": 6,
+            "equine": 5,
+            "wild horse": 2
+        }
+    },
+    "UCvP0q4WZLtgmfh107XV2MCw": {
+        "title": "Creek Fishing Adventures",
+        "tags": {
+            "extreme": 24,
+            "philly": 24,
+            "fishing": 24,
+            "johnb": 24,
+            "urban": 24,
+            "multi-species": 24,
+            "creek": 24,
+            "dalton": 24,
+            "stream": 24,
+            "fish": 24
+        }
+    },
+    "UCk6qj85eRGJfr-slOQ8o4uA": {
+        "title": "Elen Lane",
+        "tags": {
+            "fashion": 20,
+            "ulzzang": 15,
+            "ootd": 14,
+            "outfitideas": 9,
+            "koreanfashion": 9,
+            "aesthetic": 8,
+            "kpop": 6,
+            "ootdideas": 6,
+            "lookbook": 4,
+            "kfashion": 4
+        }
+    },
+    "UCx4MHIcTdwdcmJ5accSDlPA": {
+        "title": "grainydays",
+        "tags": {
+            "35mm": 21,
+            "analog": 18,
+            "photos": 15,
+            "shoot film": 15,
+            "120": 14,
+            "portra": 14,
+            "medium format": 13,
+            "kodak": 13,
+            "film is not dead": 13,
+            "fuji": 12
+        }
+    },
+    "UCvavJlMjlTd4wLwi9yKCtew": {
+        "title": "Vacuum Wars",
+        "tags": {
+            "vacuum wars": 10,
+            "robot vacuum": 3,
+            "best carpet cleaning machine": 2,
+            "shark apex duoclean": 2,
+            "bissell pet hair eraser": 2,
+            "shark robot vacuum": 1,
+            "shark robot vacuum differences": 1,
+            "shark r85 vs r87": 1,
+            "shark rv850": 1,
+            "rv871": 1
+        }
+    },
+    "UCV_i_0uE8IlSenyJY0yBgdw": {
+        "title": "NigelBarros",
+        "tags": {
+            "how to filmmaking": 15,
+            "nigel barros": 13,
+            "panasonic gh3": 11,
+            "best video camera": 7,
+            "panasonic g6": 3,
+            "cheap cinematic camera": 3,
+            "sigma 16mm f1.4": 3,
+            "budget filmmaking": 2,
+            "micro 4/3 lenses": 2,
+            "cheap filmmaking gear": 2
+        }
+    },
+    "UCm4DxhZ2xxk0Jh2bVEpPunw": {
+        "title": "DeJesus Custom Footwear",
+        "tags": {
+            "dejesus custom footwear": 25,
+            "angelus paint": 24,
+            "angelus direct": 23,
+            "dejesus customs": 22,
+            "custom shoes": 21,
+            "how to customize shoes": 20,
+            "how to custom cleats": 20,
+            "how to paint shoes": 18,
+            "how to airbrush shoes": 17,
+            "customs": 15
+        }
+    },
+    "UCeSHo5kTvzoik4STh7MuMCA": {
+        "title": "Seth James DeMoor",
+        "tags": {
+            "daily vlog": 23,
+            "seth james demoor": 23,
+            "running vlog": 20,
+            "running inspiration": 19,
+            "running gear": 18,
+            "how to run": 18,
+            "motivation to start running": 18,
+            "how to run fast": 18,
+            "how to run faster": 18,
+            "running motivation": 17
+        }
+    },
+    "UCeRHowFeMyMdcyg-wNciUTA": {
+        "title": "AFC vending",
+        "tags": {
+            "vending": 21,
+            "how to start a vending business": 21,
+            "gumball machines": 20,
+            "collecting money from my vending business": 20,
+            "vending machine": 20,
+            "how to buy a vending machine": 20,
+            "how much money do i need to start a vending business": 20,
+            "collecting from my vending machines": 20,
+            "how much do i make in vending": 20,
+            "jaime ibanez": 20
+        }
+    },
+    "UCd139NO9nRefB0JdesPZ4dQ": {
+        "title": "Doberman Planet",
+        "tags": {
+            "dobermann": 15,
+            "doberman pinscher": 15,
+            "doberman": 8,
+            "are dobermans good family dogs": 3,
+            "doberman health": 3,
+            "doberman anxiety": 3,
+            "living with a doberman": 3,
+            "dobermans with kids": 3,
+            "should i get a doberman": 2,
+            "alternative colors": 2
+        }
+    },
+    "UCeyjIUxCdImo4pPe4Frgeng": {
+        "title": "V-BELT and SON",
+        "tags": {
+            "cummins": 8,
+            "gooseneck": 8,
+            "towing": 6,
+            "logging": 4,
+            "diesel": 3,
+            "kubota": 3,
+            "dodge 5500": 3,
+            "lowboy": 2,
+            "skid steer": 2,
+            "takeuchi": 2
+        }
+    },
+    "UCn1A26pkCwE7o93I-BTscbA": {
+        "title": "UNITED BY TRUCKS",
+        "tags": {
+            "patina": 25,
+            "finnegans garage": 25,
+            "roadkill": 25,
+            "motor trend": 25,
+            "hot rod garage": 25,
+            "gears wheels and motors": 25,
+            "c10 talk": 25,
+            "junkyard digs": 25,
+            "barn find hunter": 25,
+            "lowlife video": 25
+        }
+    },
+    "UCbuJJ79M4Syuict0R7C2MTA": {
+        "title": "Salvage Workshop",
+        "tags": {
+            "metalworking": 22,
+            "woodworking": 21,
+            "blacksmith": 16,
+            "tool restoration": 14,
+            "repair": 13,
+            "hand tool rescue": 13,
+            "black beard projects": 13,
+            "how to restore a": 11,
+            "restore": 11,
+            "tysytube": 11
+        }
+    },
+    "UCjl3zDun9SazYI0UWWu6_1A": {
+        "title": "Gold Shaw Farm",
+        "tags": {
+            "gold shaw farm": 25,
+            "duck farm": 25,
+            "goose farm": 25,
+            "vermont farm": 25,
+            "raising ducks": 9,
+            "khaki campbell ducks": 8,
+            "homesteading": 6,
+            "duck farming": 6,
+            "small duck farm": 5,
+            "homestead": 5
+        }
+    },
+    "UC3l5MwLr7dvKn8FaBtMvi_w": {
+        "title": "V2 Vids",
+        "tags": {
+            "monster trucks": 19,
+            "overkill evolution": 10,
+            "jumps": 7,
+            "racing": 7,
+            "monster truck": 6,
+            "avenger": 5,
+            "mikey vaters": 2,
+            "freestyle": 2,
+            "tricks": 2,
+            "repairs": 2
+        }
+    },
+    "UCfo5aZL8pvt8j6UYYkkyz5A": {
+        "title": "The East Fam Talks",
+        "tags": {
+            "andrew east": 22,
+            "entrepreneur": 19,
+            "interview": 19,
+            "podcast": 19,
+            "fame": 19,
+            "passion": 19,
+            "inspired": 18,
+            "nashville": 13,
+            "capture": 13,
+            "audience": 13
+        }
+    },
+    "UCZZ4ivUawsXRktLKej8d6Xw": {
+        "title": "Mike O'Brien",
+        "tags": {
+            "echo buds": 3,
+            "honest review": 3,
+            "samsung": 3,
+            "fossil hr": 2,
+            "fossil gen 5": 2,
+            "best android smartwatch": 2,
+            "echobuds": 2,
+            "amazon echobuds": 2,
+            "amazon echo buds": 2,
+            "best earbuds 2019": 2
+        }
+    },
+    "UCcYd0ToaacpyGYeQxiM6_Tw": {
+        "title": "JoshXBarber",
+        "tags": {
+            "hair": 15,
+            "andis": 15,
+            "babyliss": 15,
+            "beard": 14,
+            "fade": 14,
+            "360 jeezy": 13,
+            "how to cut hair": 12,
+            "best of barbers": 12,
+            "haircut video": 11,
+            "best haircut ever": 11
+        }
+    },
+    "UC1iGpIm2g0D8lZvhtqetHmg": {
+        "title": "Backyard Trail Builds",
+        "tags": {
+            "backyard mtb trail": 15,
+            "diy": 11,
+            "mtb features": 10,
+            "how to build": 10,
+            "mtb trail build": 10,
+            "mountain bike": 9,
+            "backyard trail build": 9,
+            "backyard trail building": 9,
+            "mtb feature": 8,
+            "backyard mountain biking": 8
+        }
+    },
+    "UCsxpEPfEgqyXC6jaFKQSKVQ": {
+        "title": "Wicked Makers",
+        "tags": {
+            "diy halloween": 8,
+            "diy": 8,
+            "halloween props diy": 7,
+            "diy halloween decorations": 7,
+            "halloween props": 7,
+            "wicked makers": 6,
+            "halloween diy": 6,
+            "diy halloween props": 6,
+            "halloween decorations": 6,
+            "husband and wife": 5
+        }
+    },
+    "UCrdXIAxUGwcrU1UCRLy62oQ": {
+        "title": "Regular Guy Mountain Biking",
+        "tags": {
+            "regular guy mountain biking": 18,
+            "mountain biking": 15,
+            "mountain bike": 11,
+            "santa cruz nomad": 10,
+            "mtb": 10,
+            "wawayanda state park": 7,
+            "#bikechat": 7,
+            "bikechat": 6,
+            "mountain creek bike park": 5,
+            "downhill mountain biking": 5
+        }
+    },
+    "UC5aM_L2ZB-fU0dg9OPgXcUA": {
+        "title": "Fielding Shredder",
+        "tags": {
+            "fielding": 25,
+            "shredder": 25,
+            "fielding shredder": 25,
+            "drifting": 25,
+            "drifty": 25,
+            "drift": 25,
+            "drift car": 25,
+            "car": 25,
+            "cars": 25,
+            "racing": 25
+        }
+    },
+    "UC20oEMuKgfaNBfpV7JlFRQQ": {
+        "title": "Abbie Emmons",
+        "tags": {
+            "abbie emmons": 22,
+            "nanowrimo": 20,
+            "novel": 16,
+            "authortube": 15,
+            "writing": 10,
+            "writing tips": 9,
+            "outlining": 6,
+            "characters": 6,
+            "fiction": 6,
+            "story": 5
+        }
+    },
+    "UCMOH7My_F61L6VTQHKE3sfA": {
+        "title": "Good Simple Living",
+        "tags": {
+            "good simple living": 25,
+            "homesteading": 25,
+            "homestead": 23,
+            "farming": 22,
+            "process your own meat": 18,
+            "meat rabbits": 15,
+            "raising rabbits": 14,
+            "off grid": 12,
+            "permaculture": 8,
+            "how to rabbits": 8
+        }
+    },
+    "UCfquAI3VZpHTYp6ZazJ03MA": {
+        "title": "BuiltToCruise",
+        "tags": {
+            "builttocruise": 25,
+            "built to cruise": 25,
+            "minitruckin stories": 25,
+            "minitrucker stories": 25,
+            "minitruckin magazine": 23,
+            "mini truckin magazine": 23,
+            "minitruckerstories": 22,
+            "truckin magazine": 22,
+            "street trucks": 21,
+            "street trucks magazine": 12
+        }
+    },
+    "UCwGquWcnP0u1cftJkCi6s_Q": {
+        "title": "Christopher Chaos",
+        "tags": {
+            "christopher chaos": 22,
+            "us army": 9,
+            "us army veteran": 8,
+            "army veteran live stream": 8,
+            "army": 8,
+            "chaos live": 6,
+            "questions and answers": 6,
+            "why i got out of the army": 6,
+            "leaving the army": 6,
+            "ets from the army": 6
+        }
+    },
+    "UCBnD6FWitIakVK8ID-QGT1A": {
+        "title": "GuineaDad",
+        "tags": {
+            "piggies": 16,
+            "las vegas": 13,
+            "nevada": 13,
+            "guineadad": 12,
+            "piggy": 10,
+            "guinea": 9,
+            "guinea pig": 9,
+            "guineadad liners": 9,
+            "small animals": 8,
+            "do it yourself": 8
+        }
+    },
+    "UCdV7lCjZqIpaNiSbx3PcMTA": {
+        "title": "The Elegant Oxford",
+        "tags": {
+            "saphir": 23,
+            "allenedmonds": 23,
+            "mirrorshine": 18,
+            "shoeshine": 16,
+            "shoerestoration": 16,
+            "spitshine": 14,
+            "shoerestore": 5,
+            "asmr": 4,
+            "shoecare": 4,
+            "leatherdye": 3
+        }
+    },
+    "UCtpjjl1tXA5HK9YEm51M9BA": {
+        "title": "Broncs and Donks",
+        "tags": {
+            "tyler": 14,
+            "better": 12,
+            "olsen": 12,
+            "training": 12,
+            "skinner": 10,
+            "mule": 9,
+            "mules": 8,
+            "horse or mule": 8,
+            "mule or horse": 8,
+            "horse": 7
+        }
+    },
+    "UCnFjZIwkMqJSWWPajK9QXxA": {
+        "title": "Acres of Clay Homestead",
+        "tags": {
+            "farming": 25,
+            "homesteading": 25,
+            "family farm": 25,
+            "farm kids": 25,
+            "farm": 25,
+            "cows": 25,
+            "cow": 25,
+            "dairy": 25,
+            "milk": 25,
+            "homestead": 25
+        }
+    }
+}

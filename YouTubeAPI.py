@@ -199,7 +199,7 @@ def dump_to_json(channels_to_tags, category_id):
     json_text = json.dumps(channels_to_tags, indent=4)
     print(json_text)
 
-    json_file = open(category_id + ".txt", "w")
+    json_file = open("youtube_jsons/" + category_id + ".txt", "w")
     json_file.write(json_text)
     json_file.close()
 

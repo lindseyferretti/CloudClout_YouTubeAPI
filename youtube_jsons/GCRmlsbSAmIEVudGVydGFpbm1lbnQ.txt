@@ -1,0 +1,435 @@
+{
+    "UCMz7JFeTmiO2oJgtmYhpUmQ": {
+        "title": "McJuggerNuggets",
+        "tags": {
+            "mcjuggernuggets": 19,
+            "jesse ridgway": 19,
+            "vlogs": 19,
+            "family": 19,
+            "family vlogs": 19,
+            "larry's lounge": 19,
+            "storyfire": 19,
+            "ridgid studios": 19,
+            "bigbrudda": 18,
+            "relationships": 4
+        }
+    },
+    "UCvthuVsurPaVz2a7_4LepGg": {
+        "title": "Family Fun Pack",
+        "tags": {
+            "family fun pack": 25,
+            "family fun pack twins": 25,
+            "family vlog": 21,
+            "family fun for everyone": 19,
+            "home video": 15,
+            "family fun pack halloween": 6,
+            "family fun pack mommy monday": 5,
+            "family vloggers": 3,
+            "family fun pack kristine": 2,
+            "family fun pack basketball": 2
+        }
+    },
+    "UCaWd5_7JhbQBe4dknZhsHJg": {
+        "title": "WatchMojo.com",
+        "tags": {
+            "watchmojo": 24,
+            "top 10": 22,
+            "list": 22,
+            "watch mojo": 20,
+            "anime review": 5,
+            "listicles": 4,
+            "recommended anime": 3,
+            "anime battles": 3,
+            "video games": 3,
+            "amv": 2
+        }
+    },
+    "UCBUVGPsJzc1U8SECMgBaMFw": {
+        "title": "BuzzFeed Multiplayer",
+        "tags": {
+            "gameplay": 20,
+            "videogames": 20,
+            "game": 13,
+            "gaming": 11,
+            "lets play sims 4": 10,
+            "playthrough": 10,
+            "the sims": 9,
+            "sims 4": 9,
+            "sims 4 gameplay": 9,
+            "lets play sims": 9
+        }
+    },
+    "UCdM8C3ufiI-i-I1XSugKVvg": {
+        "title": "The Real Daytime",
+        "tags": {
+            "the real": 25,
+            "daytime": 25,
+            "talk show": 25,
+            "women": 25,
+            "tamera mowry": 25,
+            "adrienne bailon": 25,
+            "loni love": 25,
+            "jeannie mai": 25
+        }
+    },
+    "UCWljxewHlJE3M7U_6_zFNyA": {
+        "title": "AwesomenessTV",
+        "tags": {
+            "awesomenesstv": 11,
+            "awesomeness": 11,
+            "daily report": 9,
+            "awesomenesstv hollywood": 8,
+            "reality show": 5,
+            "my dream quinceanera": 5,
+            "quinceanera": 5,
+            "quince": 5,
+            "shane dawson": 4,
+            "jeffree star": 4
+        }
+    },
+    "UCvtRTOMP2TqYqu51xNrqAzg": {
+        "title": "Brawadis",
+        "tags": {
+            "brawadis": 25,
+            "prank": 25,
+            "basketball": 25,
+            "skits": 25,
+            "ghost": 25,
+            "funny videos": 25,
+            "vlog": 25,
+            "vlogging": 25,
+            "browadis": 25,
+            "challenges": 25
+        }
+    },
+    "UCT2X19JJaJGUN7mrYuImANQ": {
+        "title": "America's Got Talent",
+        "tags": {
+            "talent": 2,
+            "agt champions": 1,
+            "terry crews": 1,
+            "america's got talent 2019": 1,
+            "america's got talent": 1,
+            "america's got talent fails": 1,
+            "america's got talent best": 1,
+            "america's got talent auditions": 1,
+            "agt": 1,
+            "agt 2019": 1
+        }
+    },
+    "UCfwx98Wty7LhdlkxL5PZyLA": {
+        "title": "Barcroft TV",
+        "tags": {
+            "amazing news": 25,
+            "amazing stories": 25,
+            "amazing story": 25,
+            "amazing": 25,
+            "barcroft media": 25,
+            "barcroft": 25,
+            "documentary": 25,
+            "real life": 25,
+            "2019": 25,
+            "exercise": 6
+        }
+    },
+    "UCmh5gdwCx6lN7gEC20leNVA": {
+        "title": "David Dobrik",
+        "tags": {
+            "david": 25,
+            "dobrik": 25,
+            "to": 25,
+            "dating": 25,
+            "vlog": 24,
+            "how": 24,
+            "vlogger": 23,
+            "boyfriend": 21,
+            "try": 21,
+            "not": 20
+        }
+    },
+    "UCOpcACMWblDls9Z6GERVi1A": {
+        "title": "Screen Junkies",
+        "tags": {
+            "screenjunkies": 22,
+            "screen junkies": 22,
+            "honest trailers": 19,
+            "honest trailer": 18,
+            "honest trailers commentary": 7,
+            "fandom": 5,
+            "honest commentaries": 4,
+            "honest commentary": 3,
+            "honest trailers commentaries": 3,
+            "power levels": 3
+        }
+    },
+    "UCgNa58UD6RXkbxgcwwRUtWg": {
+        "title": "DOSEofFOUSEY",
+        "tags": {
+            "fouseytube": 25,
+            "doseoffousey": 25,
+            "vlogs2016": 22,
+            "dose of fousey": 22,
+            "fousey pranks": 22,
+            "fouseytube pranks": 22,
+            "doseoffousey pranks": 22,
+            "fousey": 10,
+            "the kats family": 5,
+            "prank": 5
+        }
+    },
+    "UCXUrDDdmQHni2UTSNyIh4ag": {
+        "title": "jennxpenn",
+        "tags": {
+            "jennxpenn": 25,
+            "jennxpenn2": 25,
+            "jennxpenngames": 25,
+            "jenn": 25,
+            "jen": 25,
+            "penn": 25,
+            "pen": 25,
+            "mcallister": 25,
+            "jennxpen": 25,
+            "jenxpenn": 25
+        }
+    },
+    "UCi7GJNg51C3jgmYTUwqoUXA": {
+        "title": "Team Coco",
+        "tags": {
+            "conan o'brien": 1,
+            "conan": 1,
+            "conan (tv series)": 1,
+            "tbs (tv channel)": 1,
+            "team coco": 1,
+            "late night with": 1,
+            "o'brien": 1,
+            "nbc": 1,
+            "hd": 1,
+            "hq": 1
+        }
+    },
+    "UCxSz6JVYmzVhtkraHWZC7HQ": {
+        "title": "Liza Koshy",
+        "tags": {
+            "lizzza": 25,
+            "lizzzavine": 25,
+            "lizzzak": 25,
+            "lizzzako": 25,
+            "koshy": 25,
+            "comedian": 16,
+            "female": 16,
+            "david dobrik": 16,
+            "comic": 16,
+            "we broke up": 15
+        }
+    },
+    "UC2iUwfYi_1FCGGqhOUNx-iA": {
+        "title": "Screen Rant",
+        "tags": {
+            "dc movies": 9,
+            "marvel actors": 7,
+            "ryan george": 4,
+            "the mandalorian": 4,
+            "marvel": 4,
+            "the joker": 4,
+            "robert pattinson batman": 4,
+            "dc actors": 4,
+            "avengers endgame": 4,
+            "thanos": 3
+        }
+    },
+    "UC3gNmTGu-TTbFPpfSs5kNkg": {
+        "title": "Movieclips",
+        "tags": {
+            "entertainment": 25,
+            "mother! darren aronofsky": 10,
+            "mother! 2017": 10,
+            "mother! scene": 10,
+            "mother! clip": 10,
+            "mother! ending": 10,
+            "mother! hd": 10,
+            "mother! ending explained": 10,
+            "mother! trailer": 10,
+            "mother! review": 10
+        }
+    },
+    "UCjmJDM5pRKbUlVIzDYYWb6g": {
+        "title": "Warner Bros. Pictures",
+        "tags": {
+            "horror": 7,
+            "new line": 7,
+            "movie": 5,
+            "the shining": 3,
+            "it chapter two": 3,
+            "warner bros pictures": 2,
+            "warner bros": 2,
+            "official trailer": 2,
+            "trailer": 2,
+            "joker": 2
+        }
+    },
+    "UCv7YFWATebnJ1ty4cwMKgsQ": {
+        "title": "The Wendy Williams Show",
+        "tags": {
+            "wendy williams": 25,
+            "the wendy williams show": 25,
+            "#youtubeblack": 25,
+            "entertainment": 25,
+            "celebrity news": 25,
+            "talk show": 25,
+            "holiday gifts": 1,
+            "gift guide": 1,
+            "home decorating": 1,
+            "family photos": 1
+        }
+    },
+    "UCUtZaxDF3hD5VK4xRYFBePQ": {
+        "title": "Britain's Got Talent",
+        "tags": {
+            "britain's got talent": 25,
+            "britains got talent": 25,
+            "britain's": 25,
+            "got": 25,
+            "talent": 25,
+            "2019": 25,
+            "britains": 25,
+            "ant and dec": 25,
+            "ant": 25,
+            "dec": 25
+        }
+    },
+    "UCi8e0iOVk1fEOogdfu4YgfA": {
+        "title": "Movieclips Trailers",
+        "tags": {
+            "2019": 4,
+            "top trailers": 3,
+            "new trailers": 3,
+            "best trailers": 3,
+            "new this week": 3,
+            "know before you go": 3,
+            "2019 trailers": 2,
+            "spies in disguise": 2,
+            "fred rogers": 2,
+            "mister rogers": 2
+        }
+    },
+    "UCp0hYYBW6IMayGgR-WeoCvQ": {
+        "title": "TheEllenShow",
+        "tags": {
+            "ellen": 25,
+            "ellen degeneres": 23,
+            "ellentube": 19,
+            "the ellen degeneres show": 18,
+            "season 17": 13,
+            "josh gad guest host": 7,
+            "josh gad ellen": 6,
+            "josh gad": 5,
+            "season 17 episode 147": 4,
+            "ellen game": 4
+        }
+    },
+    "UCQjh-JVPNWfY-KsZS3RgRHw": {
+        "title": "Clevver News",
+        "tags": {
+            "2019": 5,
+            "celeb 2019": 5,
+            "celeb news 2019": 5,
+            "taylor swift amas": 4,
+            "billie eilish": 3,
+            "taylor swift scooter braun": 3,
+            "2019 amas": 3,
+            "ama": 3,
+            "music awards": 3,
+            "awards show": 3
+        }
+    },
+    "UC8-Th83bH_thdKZDJCrn88g": {
+        "title": "The Tonight Show Starring Jimmy Fallon",
+        "tags": {
+            "humor": 25,
+            "tonight": 25,
+            "show": 25,
+            "jokes": 25,
+            "funny video": 25,
+            "interview": 25,
+            "talent": 25,
+            "celebrities": 25,
+            "video": 25,
+            "clip": 25
+        }
+    },
+    "UCz97F7dMxBNOfGYu3rx8aCw": {
+        "title": "Sony Pictures Entertainment",
+        "tags": {
+            "movie trailer": 4,
+            "leonardo dicaprio": 3,
+            "once upon a time in hollywood": 3,
+            "once in hollywood": 3,
+            "quentin": 3,
+            "leo dicaprio": 3,
+            "brad pitt": 3,
+            "leo and brad": 3,
+            "margot robbie": 3,
+            "quentin tarantino": 3
+        }
+    },
+    "UC1OFDlfdRb6ma1ZGZd07gWA": {
+        "title": "Miranda Sings",
+        "tags": {
+            "miranda": 25,
+            "sings": 25,
+            "mirandasings08": 25,
+            "beautiful": 25,
+            "lips": 25,
+            "comedy": 25,
+            "funny": 25,
+            "lipstick": 25,
+            "parody": 25,
+            "youtube": 25
+        }
+    },
+    "UCYUQQgogVeQY8cMQamhHJcg": {
+        "title": "CinemaSins",
+        "tags": {
+            "cinemasins": 22,
+            "cinema sins": 22,
+            "everything wrong with": 21,
+            "eww": 21,
+            "review": 21,
+            "movie": 20,
+            "mistakes": 19,
+            "stephen king": 3,
+            "into the woods": 1,
+            "into the woods cinemasins": 1
+        }
+    },
+    "UClWD8su9Sk6GzZDwy9zs3_w": {
+        "title": "Tana Paul",
+        "tags": {
+            "tana mongeau": 25,
+            "tanamongeau": 25,
+            "tana": 25,
+            "mongeau": 25,
+            "tana mongeau youtube": 24,
+            "youtube tana mongeau": 24,
+            "tana mongeau channel": 24,
+            "channel tana mongeau": 24,
+            "tana mongeau story time": 24,
+            "tana story time": 24
+        }
+    },
+    "UCGCPAOQDZa_TTTXDr5byjww": {
+        "title": "Joey Graceffa",
+        "tags": {
+            "joey": 21,
+            "graceffa": 21,
+            "puppy": 10,
+            "lark": 8,
+            "puppies": 7,
+            "pregnant": 6,
+            "new born puppy": 6,
+            "cute": 5,
+            "born": 5,
+            "baby dog": 5
+        }
+    }
+}

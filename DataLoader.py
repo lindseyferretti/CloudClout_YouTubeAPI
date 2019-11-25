@@ -10,7 +10,7 @@ def open_every_file():
         "GCR2FtaW5n", "GCQmVhdXR5ICYgRmFzaGlvbg", "GCU3BvcnRz", "GCVGVjaA", "GCQ29va2luZyAmIEhlYWx0aA", "GCTmV3cyAmIFBvbGl0aWNz"]
     for f in filenames:
         try:
-            tmp_file = open(f+".txt", "r")
+            tmp_file = open("youtube_jsons/" + f + ".txt", "r")
             data = tmp_file.read()
             tmp_file.close()
             data = json.loads(data)

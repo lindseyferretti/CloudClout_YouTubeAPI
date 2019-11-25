@@ -1,0 +1,182 @@
+{
+    "UCIwFjwMjI0y7PDBVEO9-bkQ": {
+        "title": "Justin Bieber",
+        "tags": {
+            "justin bieber": 22,
+            "purpose": 7,
+            "what do you mean": 5,
+            "calvin klein": 3,
+            "ed sheeran": 2,
+            "trailer": 2,
+            "children": 2,
+            "justinbieber": 2,
+            "christmas": 2,
+            "sorry": 2
+        }
+    },
+    "UCcYrdFJF7hmPXRNaWdrko4w": {
+        "title": "ChrisBrownTV",
+        "tags": {
+            "chris": 4,
+            "brown": 4,
+            "team breezy": 2,
+            "exclusive": 2,
+            "chris brown": 1,
+            "chris brown back to love": 1,
+            "back to love": 1,
+            "randb": 1,
+            "chris brown vevo": 1,
+            "chris brown music": 1
+        }
+    },
+    "UCN9HPn2fq-NL8M5_kp4RWZQ": {
+        "title": "Sia",
+        "tags": {
+            "sia": 3,
+            "holiday music": 3,
+            "pop music": 3,
+            "pop": 3,
+            "chandelier": 3,
+            "maddie ziegler": 2,
+            "everyday is christmas": 2,
+            "puppies are forever": 2,
+            "nostalgic for the present tour": 2,
+            "nostalgic for the present": 2
+        }
+    },
+    "UC9CoOnJkIBMdeijd9qYoT_g": {
+        "title": "Ariana Grande",
+        "tags": {
+            "bts": 8,
+            "thank u next": 8,
+            "behind the scenes": 7,
+            "ariana grande": 5,
+            "charlies angels": 5,
+            "social house": 4,
+            "boyfriend": 4,
+            "7 rings": 3,
+            "victoria monet": 2,
+            "lyric video": 2
+        }
+    },
+    "UCb2HGwORFBo94DmRx4oLzow": {
+        "title": "One Direction",
+        "tags": {
+            "one direction vevo": 25,
+            "one direction fireproof": 25,
+            "one direction story of my life": 25,
+            "one direction lyrics": 25,
+            "one direction live": 25,
+            "one direction steal my girl": 25,
+            "steal my girl": 25,
+            "one direction four": 25,
+            "one direction 4": 25,
+            "1d": 25
+        }
+    },
+    "UCcgqSM4YEo5vVQpqwN-MaNw": {
+        "title": "Rihanna",
+        "tags": {
+            "savagexfenty": 7,
+            "savagex": 7,
+            "savage x fenty": 7,
+            "lingerie": 7,
+            "rhianna": 7,
+            "savage x": 6,
+            "fashion show": 5,
+            "nyfw": 5,
+            "fenty": 5,
+            "savage": 4
+        }
+    },
+    "UCuHzBCaKmtaLcRAOoazhCPA": {
+        "title": "Beyonc\u00e9",
+        "tags": {
+            "beyonce": 15,
+            "behind the scenes": 13,
+            "the formation world tour": 3,
+            "beyhive": 3,
+            "plantbased": 2,
+            "22days": 1,
+            "22daysnutrition": 1,
+            "health": 1,
+            "lifestyle": 1,
+            "wellness": 1
+        }
+    },
+    "UCYvmuw-JtVrTZQ-7Y4kd63Q": {
+        "title": "Katy Perry",
+        "tags": {
+            "live": 5,
+            "livestream": 5,
+            "stream": 5,
+            "katy perry behind the scenes": 4,
+            "katy perry small talk": 4,
+            "small talk katy perry": 4,
+            "swish swish": 4,
+            "katy perry new song": 3,
+            "katie perry": 3,
+            "official video katy perry": 3
+        }
+    },
+    "UC3jOd7GUMhpgJRBhiLzuLsg": {
+        "title": "Nicki Minaj",
+        "tags": {
+            "minaj": 17,
+            "pink friday": 17,
+            "nicki minaj 2018": 6,
+            "nicki": 4,
+            "the pink print": 4,
+            "ymcmb": 4,
+            "minaj video": 4,
+            "nicki minaj chun li": 3,
+            "lyric video": 3,
+            "pills n potions": 3
+        }
+    },
+    "UCoUM-UJ7rirJYP8CQ0EIaHA": {
+        "title": "Bruno Mars",
+        "tags": {
+            "bruno mars 24k magic": 11,
+            "bruno mars that's what i like": 7,
+            "24k magic bruno mars": 7,
+            "atlantic": 6,
+            "that's what i like bruno mars": 6,
+            "bruno mars thats what i like": 6,
+            "official video": 5,
+            "bruno mars live": 5,
+            "thats what i like bruno mars": 5,
+            "live bruno mars": 4
+        }
+    },
+    "UCfM3zsQsOnfWNUppiycmBuw": {
+        "title": "EminemMusic",
+        "tags": {
+            "eminem 2018": 8,
+            "eminem kamikaze": 7,
+            "kamikaze 2018": 6,
+            "new eminem": 5,
+            "kamikaze": 4,
+            "eminem 2017": 4,
+            "bodied": 3,
+            "kamikaze interview": 3,
+            "eminem interview": 3,
+            "eminem revival": 3
+        }
+    },
+    "UCVp3nfGRxmMadNDuVbJSk8A": {
+        "title": "Wiz Khalifa",
+        "tags": {
+            "wiz khalifa": 25,
+            "blacc hollywood": 25,
+            "taylor gang": 25,
+            "atlantic records": 25,
+            "hip hop": 25,
+            "wiz": 25,
+            "khalifa": 25,
+            "pittsburgh": 24,
+            "los angeles": 24,
+            "taylorgangent": 24
+        }
+    }
+}
