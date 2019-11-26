@@ -1,0 +1,452 @@
+{
+    "UCxaVOVnhmT0-HCUv72jtOTA": {
+        "title": "FaZe Rain",
+        "tags": {
+            "fortnite": 6,
+            "krunker.io": 6,
+            "faze clan fortnite": 5,
+            "faze clan": 4,
+            "gaming": 3,
+            "clout house": 3,
+            "fps game": 3,
+            "faze rain fortnite": 3,
+            "faze rain update": 3,
+            "faze exposed": 3
+        }
+    },
+    "UCC-RHF_77zQdKcA75hr5oTQ": {
+        "title": "FGTeeV",
+        "tags": {
+            "fgteev": 25,
+            "fgteev youtube": 25,
+            "youtube fgteev": 25,
+            "fgteev gaming": 25,
+            "fgteev minecraft": 25,
+            "fgteev roblox": 25,
+            "fgteev hello neighbor": 25,
+            "family gaming": 24,
+            "gameplay": 24,
+            "skit": 24
+        }
+    },
+    "UCi87kxosIT3wrnEA-mv4jWA": {
+        "title": "FaZe Adapt",
+        "tags": {
+            "vlog": 6,
+            "challenge": 6,
+            "fortnite": 4,
+            "faze kay": 4,
+            "faze clan": 3,
+            "faze jarvis": 3,
+            "pop up": 2,
+            "brother nature": 2,
+            "basketball": 2,
+            "faze rug": 2
+        }
+    },
+    "UCDo9msNItILnyF_Y2eHaNQg": {
+        "title": "RiceGum",
+        "tags": {
+            "family": 21,
+            "girlfriend": 12,
+            "family friendly": 11,
+            "ace family": 8,
+            "boyfriend": 7,
+            "vlog": 5,
+            "pg": 5,
+            "happy": 4,
+            "tiktok": 4,
+            "ricegum": 4
+        }
+    },
+    "UCKYb5XBe-5OSEgLijLSoDtw": {
+        "title": "UnspeakableGaming",
+        "tags": {
+            "minecraft": 25,
+            "unspeakablegaming": 25,
+            "unspeakable": 25,
+            "mini game": 25,
+            "mod": 25,
+            "gaming": 25,
+            "game": 25,
+            "custom": 25,
+            "map": 25,
+            "crazy": 25
+        }
+    },
+    "UCWbHJTyhqEHoyfgZWwI6v1A": {
+        "title": "Kelly Plays - Little Kelly",
+        "tags": {
+            "minecraft": 25,
+            "little kelly": 25,
+            "little kelly minecraft": 25,
+            "minecraft little kelly": 25,
+            "little kelly adventures": 25,
+            "kelly little": 25,
+            "the little club": 25,
+            "little club": 25,
+            "gaming": 25,
+            "minecraft roleplay": 25
+        }
+    },
+    "UCpB959t8iPrxQWj7G6n0ctQ": {
+        "title": "SSSniperWolf",
+        "tags": {
+            "sssniperwolf": 25,
+            "sniper wolf": 25,
+            "reaction": 19,
+            "funny": 18,
+            "reacting": 17,
+            "things": 4,
+            "riddles": 3,
+            "brain teasers": 3,
+            "brain teasers with answers": 3,
+            "riddles with answers": 3
+        }
+    },
+    "UCYzPXprvl5Y-Sf0g4vX-m6g": {
+        "title": "jacksepticeye",
+        "tags": {
+            "jacksepticeye": 25,
+            "gameplay": 13,
+            "funny": 10,
+            "funny moments": 8,
+            "death stranding": 8,
+            "death stranding gameplay": 8,
+            "death stranding walkthrough": 8,
+            "death stranding gameplay part 1": 8,
+            "death stranding ps4": 8,
+            "death stranding walkthrough part 1": 8
+        }
+    },
+    "UCkxctb0jr8vwa4Do6c6su0Q": {
+        "title": "LetsPlay",
+        "tags": {
+            "video game": 24,
+            "gaming": 24,
+            "game play": 24,
+            "game": 23,
+            "gameplay": 16,
+            "lets play": 8,
+            "let's play": 8,
+            "funny moments": 6,
+            "mod": 6,
+            "custom": 4
+        }
+    },
+    "UC9CuvdOVfMPvKCiwdGKL3cQ": {
+        "title": "GameGrumps",
+        "tags": {
+            "egoraptor": 25,
+            "game grumps": 25,
+            "arin": 25,
+            "lets play": 24,
+            "gameplay": 24,
+            "danny": 24,
+            "gamegrumps": 24,
+            "funny": 24,
+            "letsplay": 24,
+            "gaming": 24
+        }
+    },
+    "UCilwZiBBfI9X6yiZRzWty8Q": {
+        "title": "FaZe Rug",
+        "tags": {
+            "faze rug": 25,
+            "rug": 25,
+            "rugfaze": 25,
+            "fazerug": 25,
+            "faze rug challenge": 5,
+            "faze rug worst reviewed": 4,
+            "last to": 4,
+            "faze rug last to": 4,
+            "faze rug last to challenge": 4,
+            "last to challenge": 4
+        }
+    },
+    "UCB9_VH_CNbbH4GfKu8qh63w": {
+        "title": "DEATH BATTLE!",
+        "tags": {
+            "battle animation": 11,
+            "fight animation": 11,
+            "wiz": 9,
+            "boomstick": 9,
+            "animated fight": 9,
+            "animated battle": 8,
+            "chad james": 8,
+            "ben singer": 8,
+            "deadpool": 7,
+            "animation": 7
+        }
+    },
+    "UCke6I9N4KfC968-yRcd5YRg": {
+        "title": "SSundee",
+        "tags": {
+            "fortnite creative": 2,
+            "fortnite slide": 2,
+            "fortnite for loot": 2,
+            "fortnite loot": 2,
+            "fortnite new": 2,
+            "ssundee games": 2,
+            "teen friendly": 2,
+            "minecraft": 2,
+            "fortnite game mode": 2,
+            "kids": 2
+        }
+    },
+    "UCJ2ZDzMRgSrxmwphstrm8Ww": {
+        "title": "Smosh Games",
+        "tags": {
+            "smosh": 25,
+            "smosh games": 25,
+            "gaming": 24,
+            "comedy": 24,
+            "funny": 24,
+            "mari takahashi": 19,
+            "lasercorn": 15,
+            "damien haas": 13,
+            "courtney miller": 12,
+            "matt raub": 10
+        }
+    },
+    "UCH-_hzb2ILSCo9ftVSnrCIQ": {
+        "title": "YOGSCAST Lewis & Simon",
+        "tags": {
+            "yogscast": 25,
+            "lewis": 25,
+            "bluexephos": 24,
+            "garry's mod": 15,
+            "g mod": 15,
+            "garrys mod": 15,
+            "gmod multiplayer": 15,
+            "simon": 14,
+            "gmod ttt": 13,
+            "gmod": 13
+        }
+    },
+    "UCzH3iADRIq1IJlIXjfNgTpA": {
+        "title": "Rooster Teeth",
+        "tags": {
+            "animation": 25,
+            "television": 25,
+            "filmmaking": 25,
+            "comics": 24,
+            "austin": 24,
+            "texas": 24,
+            "production": 24,
+            "movies": 24,
+            "web series": 24,
+            "games": 9
+        }
+    },
+    "UCa6Hg8HmooiDNaCT0_1NbQQ": {
+        "title": "iBallisticSquid",
+        "tags": {
+            "iballisticsquid": 21,
+            "squiddy": 20,
+            "squid": 18,
+            "pc": 14,
+            "minecraft": 13,
+            "360": 7,
+            "xbox": 6,
+            "hardcore minecraft": 4,
+            "episode 3": 4,
+            "ark valguero": 4
+        }
+    },
+    "UCKqH_9mk1waLgBiL2vT5b9g": {
+        "title": "VanossGaming",
+        "tags": {
+            "card game": 3,
+            "box": 2,
+            "rage": 2,
+            "duos": 2,
+            "new map": 2,
+            "crash": 2,
+            "alarm": 2,
+            "co-op": 2,
+            "soundboard": 2,
+            "salt": 2
+        }
+    },
+    "UCo_IB5145EVNcf8hw1Kku7w": {
+        "title": "The Game Theorists",
+        "tags": {
+            "game theory": 25,
+            "game theorists": 24,
+            "matpat": 22,
+            "minecraft": 6,
+            "the science": 5,
+            "the science of": 5,
+            "minecraft theory": 5,
+            "game theory minecraft": 5,
+            "matpat minecraft": 5,
+            "five nights at freddy's": 4
+        }
+    },
+    "UC0M0rxSz3IF0CsSour1iWmw": {
+        "title": "Cinemassacre",
+        "tags": {
+            "monster madness 2019": 8,
+            "monster madness": 7,
+            "mike matei": 4,
+            "avgn": 4,
+            "cinemassacre monster madness": 4,
+            "james rolfe": 3,
+            "cinemassacre": 3,
+            "angry video game nerd": 3,
+            "james and mike mondays": 3,
+            "retro": 2
+        }
+    },
+    "UCshoKvlZGZ20rVgazZp5vnQ": {
+        "title": "CaptainSparklez",
+        "tags": {
+            "captainsparklez": 24,
+            "captain": 24,
+            "sparklez": 24,
+            "lets": 17,
+            "play": 17,
+            "playthrough": 17,
+            "minecraft": 11,
+            "survival": 10,
+            "minecraft survival": 10,
+            "minecraft hardcore": 9
+        }
+    },
+    "UCpGdL9Sn3Q5YWUH2DVUW1Ug": {
+        "title": "PopularMMOs",
+        "tags": {
+            "minecraft": 25,
+            "challenge": 25,
+            "mini-games": 25,
+            "mini games": 25,
+            "mods": 25,
+            "mod": 25,
+            "trolling": 25,
+            "parody": 25,
+            "videos": 25,
+            "animation": 25
+        }
+    },
+    "UC-lHJZR3Gqxm24_Vd_AJ5Yw": {
+        "title": "PewDiePie",
+        "tags": {
+            "pewds": 8,
+            "pewdie": 8,
+            "pdp": 8,
+            "pewdiepie": 5,
+            "pewdiepie you laugh you lose": 2,
+            "you laugh you lose": 2,
+            "satire": 1,
+            "you laugh you drink": 1,
+            "ylyl": 1,
+            "pewdiepie ylyl": 1
+        }
+    },
+    "UC7_YxT-KID8kRbqZo7MyscQ": {
+        "title": "Markiplier",
+        "tags": {
+            "markiplier": 24,
+            "gameplay": 12,
+            "funny": 8,
+            "multiplayer": 8,
+            "jacksepticeye": 8,
+            "funny moments": 7,
+            "collab": 7,
+            "gaming": 7,
+            "muyskerm": 7,
+            "lets play": 6
+        }
+    },
+    "UCqg2eLFNUu3QN3dttNeOWkw": {
+        "title": "iHasCupquake",
+        "tags": {
+            "ihascupquake": 25,
+            "cupquake": 18,
+            "gaming": 12,
+            "games": 11,
+            "gamer": 8,
+            "girl": 7,
+            "halloween": 7,
+            "minecraft mods": 6,
+            "mods": 6,
+            "cupquake minecraft": 6
+        }
+    },
+    "UC3sznuotAs2ohg_U__Jzj_Q": {
+        "title": "The Film Theorists",
+        "tags": {
+            "film theory": 24,
+            "film theorists": 23,
+            "matpat": 21,
+            "scary": 4,
+            "marvel": 4,
+            "creepypasta": 3,
+            "joker": 3,
+            "batman": 3,
+            "joker trailer": 3,
+            "joker 2019": 3
+        }
+    },
+    "UCS5Oz6CHmeoF7vSad0qqXfw": {
+        "title": "DanTDM",
+        "tags": {
+            "dantdm": 25,
+            "dan tdm": 24,
+            "tdm": 24,
+            "dan": 24,
+            "funny": 24,
+            "gaming": 24,
+            "yt:quality=high": 19,
+            "dantdm minecraft": 14,
+            "minecraft hardcore": 14,
+            "minecraft survival": 14
+        }
+    },
+    "UCVtFOytbRpEvzLjvqGG5gxQ": {
+        "title": "KSI",
+        "tags": {
+            "ksi logan paul 2": 4,
+            "ksi vs logan paul": 3,
+            "ksi vs logan paul press conference": 3,
+            "ksi vs logan paul uk press conference": 3,
+            "ksi fight": 3,
+            "ksi boxing": 3,
+            "trap": 2,
+            "boxing": 2,
+            "dazn": 2,
+            "matchroom boxing": 2
+        }
+    },
+    "UCj5i58mCkAREDqFWlhaQbOw": {
+        "title": "stampylonghead",
+        "tags": {
+            "live stream": 1,
+            "minecraft": 1,
+            "stampy": 1,
+            "iballistic squid": 1,
+            "squid": 1,
+            "hypixel": 1,
+            "mini-games": 1,
+            "sever": 1,
+            "bed battle": 1,
+            "live": 1
+        }
+    },
+    "UCKy1dAqELo0zrOtPkf0eTMw": {
+        "title": "IGN",
+        "tags": {
+            "games": 12,
+            "movie": 7,
+            "top videos": 7,
+            "shows": 6,
+            "gaming": 3,
+            "ign news": 3,
+            "breaking news": 3,
+            "movies": 3,
+            "star wars": 2,
+            "darth sidious": 2
+        }
+    }
+}

@@ -112,3 +112,5 @@ venv.bak/
 # CSV files
 edges.csv
 vertices.csv
+edges_working.csv
+vertices_working.csv

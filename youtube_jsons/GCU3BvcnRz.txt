@@ -1,0 +1,437 @@
+{
+    "UCDRmGMSgrtZkOsh_NQl4_xw": {
+        "title": "SB Nation",
+        "tags": {
+            "mlb": 7,
+            "baseball": 7,
+            "sports": 7,
+            "sb nation": 6,
+            "football": 5,
+            "nba playoffs": 5,
+            "will buikema": 4,
+            "nfl": 4,
+            "rewinder": 4,
+            "mlb playoffs": 3
+        }
+    },
+    "UC6C-UDj_OxkC1VmvCi56t8w": {
+        "title": "TeamFlightBrothers",
+        "tags": {
+            "team": 25,
+            "flight": 25,
+            "brothers": 25,
+            "slam": 25,
+            "dunk": 25,
+            "contest": 25,
+            "hops": 25,
+            "highlights": 25,
+            "best": 25,
+            "dunkers": 25
+        }
+    },
+    "UCJ5v_MCY6GNUBTO8-D3XoAg": {
+        "title": "WWE",
+        "tags": {
+            "world wrestling entertainment": 24,
+            "wrestler": 24,
+            "wrestle": 24,
+            "superstars": 24,
+            "\u0915\u0941\u0936\u094d\u0924\u0940": 24,
+            "\u092a\u0939\u0932\u0935\u093e\u0928": 24,
+            "\u0921\u092c\u094d\u0932\u0942 \u0921\u092c\u094d\u0932\u0942 \u0908": 24,
+            "\u092e\u0948\u091a": 24,
+            "\u0938\u0941\u092a\u0930\u0938\u094d\u091f\u093e\u0930": 24,
+            "\u0935\u094d\u092f\u093e\u0935\u0938\u093e\u092f\u093f\u0915 \u0915\u0941\u0936\u094d\u0924\u0940": 24
+        }
+    },
+    "UC2Th9fjegtGqBQ7UMXTDWuQ": {
+        "title": "SLS",
+        "tags": {
+            "world skate": 4,
+            "world championship": 4,
+            "2018": 3,
+            "dashawn jordan": 2,
+            "monster energy": 2,
+            "leticia bufoni": 2,
+            "yuto horigome": 2,
+            "kelvin hoefler": 2,
+            "sls": 1,
+            "street league": 1
+        }
+    },
+    "UCdY1B4Vvjcfqpqq630SjI2w": {
+        "title": "Man of Water",
+        "tags": {
+            "surf": 25,
+            "beach": 25,
+            "surfer": 25,
+            "surfing": 25,
+            "mike lucas media": 25,
+            "ocean": 25,
+            "surf vacations": 25,
+            "surf travel": 25,
+            "surf videos": 25,
+            "visit beaches": 25
+        }
+    },
+    "UCpGimyrbwRtrcJ-CIiRDXbA": {
+        "title": "nbagleague",
+        "tags": {
+            "team-1612709926": 6,
+            "game-2021900097": 6,
+            "game-2021900096": 5,
+            "game-2021900095": 5,
+            "team-1612709902": 3,
+            "player-1629139": 3,
+            "team-1612709913": 3,
+            "game-2021900101": 2,
+            "player-1628367": 2,
+            "team-1612709918": 2
+        }
+    },
+    "UCRijo3ddMTht_IHyNSNXpNQ": {
+        "title": "Dude Perfect",
+        "tags": {
+            "dude perfect": 25,
+            "dude perfect stereotypes": 25,
+            "dude perfect water bottle flip": 25,
+            "bottle flip": 25,
+            "water bottle flip": 25,
+            "dude perfect bottle flip": 25,
+            "dude perfect basketball": 25,
+            "dp": 25,
+            "dude perfect world record": 25,
+            "edition": 25
+        }
+    },
+    "UCDGB6MoY1PIuX5oHJSH9Cgg": {
+        "title": "Coach Jeremy",
+        "tags": {
+            "hockey": 25,
+            "ice hockey": 25,
+            "hockey training": 25,
+            "nhl": 25,
+            "hockey movement": 25,
+            "how to hockey": 25,
+            "national hockey league": 25,
+            "ps4": 1,
+            "disney": 1,
+            "disney 4 year old": 1
+        }
+    },
+    "UC0OnAjC52vtL_N3f76BU9dw": {
+        "title": "StuntsAmazing",
+        "tags": {
+            "parkour tutorial": 21,
+            "world best parkour": 14,
+            "world best parkour and freerunning": 13,
+            "backflip tutorial": 13,
+            "shifer": 13,
+            "best parkour": 13,
+            "parkour compilation": 12,
+            "parkour gameplay": 11,
+            "parkour montage": 11,
+            "epicmetalpiece": 11
+        }
+    },
+    "UCaCRCcO6gxXZDmkXXn4mY3w": {
+        "title": "Championship Productions",
+        "tags": {
+            "track & field dvd": 1,
+            "track & field video": 1,
+            "track and field": 1,
+            "don babbitt": 1,
+            "discus": 1,
+            "front throw": 1,
+            "release": 1,
+            "trunk": 1,
+            "championship productions": 1,
+            "georgia": 1
+        }
+    },
+    "UCrLamXyxmMYuhJGKMzmzjAg": {
+        "title": "nbaworthy",
+        "tags": {
+            "nbaworthy": 14,
+            "nba": 13,
+            "nba 2016": 8,
+            "nba 2015-16": 6,
+            "team usa basketball 2016": 5,
+            "usa basketball 2016": 4,
+            "nba game winners 2016": 4,
+            "nba clutch shots 2016": 4,
+            "usa basketball": 3,
+            "nba 2019": 3
+        }
+    },
+    "UCtInrnU3QbWqFGsdKT1GZtg": {
+        "title": "FIBA",
+        "tags": {
+            "basketball live stream": 16,
+            "live": 16,
+            "livestream": 16,
+            "20.11.2019": 12,
+            "20/11/2019": 12,
+            "association": 7,
+            "2019": 7,
+            "26.11.2019": 4,
+            "26/11/2019": 4,
+            "women basketball": 4
+        }
+    },
+    "UCGvj4E8Ivzeo1YI4ajR9vng": {
+        "title": "SneakerHeadInTheBay",
+        "tags": {
+            "marko": 11,
+            "angelus direct": 7,
+            "custom sneakers": 7,
+            "on feet": 6,
+            "how to customize sneakers": 6,
+            "sneaker review": 5,
+            "review": 4,
+            "how to paint shoes": 4,
+            "custom shoes": 4,
+            "sneakerhead": 4
+        }
+    },
+    "UCEiseXnGnRIeKuJ0GhIG9yg": {
+        "title": "Oldskoolbball",
+        "tags": {
+            "michael jordan": 7,
+            "nba": 5,
+            "chicago bulls": 4,
+            "dennis rodman": 4,
+            "carmelo anthony": 3,
+            "first take": 3,
+            "first take today": 3,
+            "shaquille o'neal": 3,
+            "kobe bryant": 3,
+            "nba playoffs": 3
+        }
+    },
+    "UCoLrcjPV5PbUrUyXq5mjc_A": {
+        "title": "MLB",
+        "tags": {
+            "sports": 19,
+            "baseball": 16,
+            "mlb highlights": 12,
+            "mike trout": 5,
+            "gerrit cole": 4,
+            "justin verlander": 4,
+            "baseball highlights": 4,
+            "cody bellinger": 4,
+            "jacob degrom": 3,
+            "astros": 3
+        }
+    },
+    "UCcpWZrbYzye7-FY4i1ALfVw": {
+        "title": "THE HANNIBAL TV",
+        "tags": {
+            "aew": 13,
+            "shoot interview": 13,
+            "wcw": 12,
+            "wwe": 10,
+            "wwf": 9,
+            "ecw": 8,
+            "tna": 8,
+            "nwa": 8,
+            "nxt": 8,
+            "njpw": 7
+        }
+    },
+    "UCE3yf1AcIlXdps2EYbq3lzw": {
+        "title": "TMZSports",
+        "tags": {
+            "nfl": 8,
+            "tmz 2019": 7,
+            "raw video": 6,
+            "tmz 2018": 5,
+            "boxing": 4,
+            "nba": 4,
+            "tmz 2017": 4,
+            "nfl highlights": 4,
+            "deontay wilder": 3,
+            "fs1": 3
+        }
+    },
+    "UCDQcZMuzY948G2SllT0GDvw": {
+        "title": "mmadigest",
+        "tags": {
+            "ufc": 23,
+            "mma": 23,
+            "penn state": 1,
+            "combate americas": 1,
+            "nicaragua": 1,
+            "deontay wilder": 1,
+            "luis ortiz": 1,
+            "boxing": 1,
+            "one": 1,
+            "cambodian": 1
+        }
+    },
+    "UCGMEwmTEHMhRZg1revBjxzw": {
+        "title": "Paul Rabil",
+        "tags": {
+            "\u201cgopro\u201d": 25,
+            "\u201cwarrior\u201d": 25,
+            "\u201cred": 25,
+            "bull\u201d": 25,
+            "\u201centrepreneur\u201d": 25,
+            "pro lacrosse": 2,
+            "\u201clacrosse\u201d": 1,
+            "paul rabil": 1,
+            "rabil lacrosse": 1,
+            "paul rabil lacrosse": 1
+        }
+    },
+    "UCYeQhkcRq-_oMa6VLiN9j-g": {
+        "title": "SneakerheadinthebayVlogs",
+        "tags": {
+            "sneakerheadinthebayvlogs": 13,
+            "sneakerheadinthebay": 11,
+            "how to": 10,
+            "tutorial": 10,
+            "amazon fbb": 9,
+            "tesla": 7,
+            "how to make money on amazon": 7,
+            "aaa": 5,
+            "vankulture": 5,
+            "elon musk": 4
+        }
+    },
+    "UCEt2RMm3EqtoerqX0-fUpfw": {
+        "title": "The Come Up BMX",
+        "tags": {
+            "tcu bmx": 15,
+            "oss": 12,
+            "tcu": 12,
+            "bmx for kids": 11,
+            "nate": 10,
+            "richter": 10,
+            "adam22": 9,
+            "cult bmx": 9,
+            "2019": 9,
+            "insane": 8
+        }
+    },
+    "UCbh8eWQ83qZxKkfUbyKEIDA": {
+        "title": "THESNEAKERADDICT",
+        "tags": {
+            "dj delz": 9,
+            "the sneaker addict": 7,
+            "sneaker news": 6,
+            "sneakerhead": 6,
+            "sneakers": 4,
+            "travis scott": 3,
+            "sneaker collection": 2,
+            "sneaker addict": 2,
+            "nba": 2,
+            "performance review": 2
+        }
+    },
+    "UC5ULOEYE9J0qQOZoKQ4BS6Q": {
+        "title": "Tom Daley",
+        "tags": {
+            "travel": 25,
+            "matty lee": 8,
+            "tom and matty": 6,
+            "japan": 6,
+            "tom daley baby": 4,
+            "korea": 4,
+            "gb divers": 3,
+            "turkey": 3,
+            "bulk powders": 3,
+            "tom does japan": 3
+        }
+    },
+    "UCq8jp0E99ELBvmBxjJ-JLgA": {
+        "title": "WhatCulture Wrestling",
+        "tags": {
+            "what culture": 19,
+            "whatculture": 19,
+            "whatculture wrestling": 19,
+            "whatculture wwe": 19,
+            "wwe": 10,
+            "wrestling": 10,
+            "aew": 3,
+            "all elite wrestling": 3,
+            "cm punk": 2,
+            "wwe raw": 2
+        }
+    },
+    "UCNCY2HGNRiXPqWejJDaWY8w": {
+        "title": "USA Gymnastics",
+        "tags": {
+            "usa": 1,
+            "gymnastics": 1,
+            "sports": 1,
+            "national team": 1,
+            "routine": 1,
+            "training": 1,
+            "gymnastics tricks": 1,
+            "usa gymnastics": 1,
+            "gymnast": 1,
+            "gymnastics tips": 1
+        }
+    },
+    "UCfcyjCP9MOfYlV6gjR9odKA": {
+        "title": "Transworld Skateboarding",
+        "tags": {
+            "transworld skateboarding": 17,
+            "skateboarding": 17,
+            "skateboard": 17,
+            "skatepark": 17,
+            "skate": 16,
+            "flip tricks": 16,
+            "wheels": 16,
+            "ollie": 1,
+            "twskate": 1,
+            "board": 1
+        }
+    },
+    "UChgdkL9Pcj9ODOQ5VDFekLg": {
+        "title": "ToNYD2WiLD",
+        "tags": {
+            "2wild4tv": 22,
+            "air jordan": 11,
+            "sneaker collection": 10,
+            "2019 sneaker releases": 8,
+            "early sneaker pickups": 6,
+            "young man": 6,
+            "sneaker review": 5,
+            "air jordan 1": 5,
+            "sneaker pickup": 5,
+            "sneaker releases": 5
+        }
+    },
+    "UCE28rwYoaV7jvU6GVzdu_GQ": {
+        "title": "World Rugby",
+        "tags": {
+            "rugby world cup": 13,
+            "rugby": 11,
+            "rugby world cup 2019": 9,
+            "south africa": 6,
+            "world rugby": 6,
+            "springboks": 5,
+            "rwc 2019": 5,
+            "world rugby awards": 3,
+            "england v south africa": 2,
+            "highlights": 2
+        }
+    },
+    "UCt16NSYjauKclK67LCXvQyA": {
+        "title": "ThrasherMagazine",
+        "tags": {
+            "thrasher": 1,
+            "magazine": 1,
+            "thrasher magazine": 1,
+            "king of the road": 1,
+            "firing line": 1,
+            "double rock": 1,
+            "skateboarding": 1,
+            "skate": 1,
+            "kickflip": 1,
+            "hall of meat": 1
+        }
+    }
+}
